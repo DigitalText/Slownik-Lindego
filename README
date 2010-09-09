@@ -2,6 +2,7 @@ Aby urchomić program:
 1. należy sciągnąć paczkę (albo przy pomocy Git albo ze strony)
 2. rozpakować
 3. W paczce znajduje się skrypt slownik.rb oraz pliki ze spisem haseł dla Słownika Lindego (http://poliqarp.wbl.klf.uw.edu.pl/slownik-lindego/) wraz z wygenerowanym plikiem z hasłami (output.txt). Plik z hasłami pasuje do programu SP (http://github.com/globtroter/SP)
+4. z konsoli: ruby slownik.rb *.djvu w celu utworzenia pliku output.txt. Dodatkowo program zostawia przekonwertowane pliku djvu do formatu xml
 
 Do uruchomienia skryptu potrzebne są:
 - ruby 1.8.7
