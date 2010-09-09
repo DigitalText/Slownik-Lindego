@@ -7,3 +7,4 @@ Do uruchomienia skryptu potrzebne są:
 - ruby 1.8.7
 - rubygems
 - libxml-ruby
+- djvutoxml
