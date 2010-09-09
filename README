@@ -1,6 +1,6 @@
 Skrypt tworzy plik z hasłami do programu SP(http://github.com/globtroter/SP) dla słownika Lindego(http://poliqarp.wbl.klf.uw.edu.pl/slownik-lindego/).
 
-Skrypt konwertuje pliki djvu do xml'a. Następnie przegląda pliki xml i na podstawie swoich danych tworzy plik wynikowy. Dane którymi kieruje się skrypt można zmienić. Dane te są przechowywane na zmiennej @data.(w późniejszej wersji będą pobierana z pliku YML)
+Skrypt konwertuje pliki djvu do xml'a. Następnie przegląda pliki xml i na podstawie swoich danych tworzy plik wynikowy. Dane którymi kieruje się skrypt można zmienić. Dane te są przechowywane na zmiennej @data.(w późniejszej wersji będą pobierane z pliku YML)
 
 Aby urchomić skrypt: 
 1. należy sciągnąć paczkę (albo przy pomocy Git albo ze strony)
