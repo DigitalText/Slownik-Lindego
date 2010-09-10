@@ -1,0 +1,153 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" dir="ltr" lang="pl-PL">
+
+	<head profile="http://gmpg.org/xfn/11">
+		<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+		<title>Dokumentacja do projektu na przediom 'Budowa słowników elektronicznych' </title>
+		<link href="styles.css" media="screen" rel="stylesheet" type="text/css" />
+	</head>
+
+	<body>
+		<h1>
+
+		</h1>
+
+
+		<h1>Wstęp</h1>
+		Zadaniem niniejszego programu jest umożliwienie łatwego dodawania skrótów do 33 tomu Słownika
+		Polszczyzny XVI wieku. W celu dodania skrótów, musimy przygotować plik tekstowy w następującym
+		formacie:
+		<div class="code">
+		IdentyfikatorSkrótuNumer1
+		<br/>
+		Opis skrótu
+		<br/>
+		IdentyfikatorSkrótuNumer2
+		<br/>
+		Opis skrótu
+		<br/>
+		...
+		<br/>
+		</div>
+
+		<h1>Pliki</h1>
+		Repozytorium GIT z kodem i skompilowanym projektem:
+		<a href="git://github.com/globtroter/SP.git">git://github.com/globtroter/SP.git</a>
+		<br/>
+		<br/>
+		Pliki słownika (nie przetworzonego):
+		<a href='SpXVI_tom_33.tar'>SpXVI_tom_33.tar</a>
+		<br/>
+		<br/>
+		Pliki słownika (po przetworzeniu):
+		<a href='SpXVI_tom_33_anotacje.tar'>SpXVI_tom_33_anotacje.tar</a>
+		<br/>
+		<br/>
+		Przykładowy plik ze skrótami:
+		<a href='skroty.txt'>skroty.txt</a>
+		
+
+		<h1>Jak używać?</h1>
+		Aby uruchomić program musimy mieć zainstalowane w systemie następujące programy:
+
+		<ul>
+			<li>git (do pobrania kodu)</li>
+			<li>JRE 6</li>
+			<li>djvused</li>
+		</ul>
+
+		Aby pobrać najnowszą wersję programu wykonujemy następujące kroki:
+		<br/>
+		<br/>
+		Jeśli wcześniej nie pobieraliśmy jeszcze kodu to wykonujemy poniższą komendę. Utworzy ona lokalną kopię
+		repozytorium z kodem w katalogu SP:
+		<div class="code">
+		git clone git://github.com/globtroter/SP.git
+		</div>
+
+		Aby zaktualizować pobrany już kod, wykonujemy komendy:
+		<div class="code">
+			cd SP
+			<br/>
+			git pull
+		</div>
+
+
+		następnie (aby uruchomić program) wchodzimy do katalogu programu:
+
+		<div class="code">
+			cd dist
+		</div>
+
+		i uruchamiamy program poleceniem:
+		<div class="code">
+			java -jar SP.jar -s ../skroty.txt -d ../slownik/test-indirect.djvu
+		</div>
+
+		gdzie, zamiast pliku "../skroty.txt" podajemy ścieżkę do pliku ze skrótami, natomiast
+		zamiast "../slownik/test-indirect.djvu" podajemy ścieżkę do przetwarzanego pliku.
+		<br/>
+		<br/>
+		Wraz z kodem programu dostarczone są przykładowe wycinki ze słownika do przetestowania oraz plik "skroty.txt". Znajdują się one w ścieżkach "SP/skroty.txt" oraz "SP/slownik/test-indirect.djvu" i "SP/slownik/test-bundled.djvu".
+
+		<h1>Przeglądanie kodu</h1>
+		Kod aplikacji najwygodniej oglądać korzystając z IDE NetBeans 6.8. Możemy również wykorzystać
+		zwykły edytor tekstowy - pliki znajdują się w katalogu:
+
+		<div class="code">
+			src/
+		</div>
+
+		<h1>Zmiany</h1>
+		<h3>Wersja 0.7</h3>
+		<ul>
+			<li> możliwość pokazania liczby trafień poszczególnych skrótów: -a
+			<br/>
+			Przydatne polecenia do operowania na statystykach pod linuksem:
+			<br/>
+			<div class="code">
+				cut -d '-' -f 1         --- wytnie wszystko po '-' (włącznie)
+				<br/>
+				sort -g                 --- sortowanie w kojelności numerycznej
+			</div>
+		</ul>
+
+		<h3>Wersja 0.6</h3>
+		<ul>
+			<li> możliwość podania koloru podświetlenia jako argumentu programu: -c '#XXXXXX'
+		</ul>
+
+		<h3>Wersja 0.5</h3>
+		<ul>
+			<li> obsługa polskich znaków
+			<li> poprawiony błąd z paczkowaniem plików
+		</ul>
+
+		<h3>Wersja 0.4</h3>
+		<ul>
+			<li> obsługa błędów w programie
+			<li> pokazywanie pomocy przy użyciu argumentu: -h
+			<li> możliwość podania ściezki do pliku ze skrótami: -s nazwa_pliku
+			<li> możliwość podania ścieżki do katalogu z plikami do przetworzenia: -d katalog
+		</ul>
+
+		<h3>Wersja 0.3</h3>
+		<ul>
+			<li> pomijanie pliku zbiorczego 'spxviw-33.djvu' przy przetwarzaniu
+		</ul>
+
+		<h3>Wersja 0.2</h3>
+		<ul>
+			<li> dodane komentarze w kodzie
+			<li> pokazywanie postępu dodawania skrótów
+		</ul>
+
+		<h3>Wersja 0.1</h3>
+		<ul>
+			<li> parsowanie plików *.djvu z ustalonego folderu
+			<li> dodawanie skrótów z predefiniowanego pliku
+			<li> kolorowanie skrótów
+		</ul>
+	</body>
+
+</html>

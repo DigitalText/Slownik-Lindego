@@ -1,0 +1,4190 @@
+ActReg 
+Acta primi regiminis Sigismundi III, 1588. 
+ArtKanc 
+P. Artomiusz, Kancyjonał, 1587. 
+BartBydg 
+Bartłomiej z Bydgoszczy, Słownik łacińsko- -polski, 1532. 
+BiałKat 
+M. Białobrzeski, Katechizm, 1566. 
+BiałKaz 
+M. Białobrzeski, Kazanie na pogrzebie Zyg- munta Augusta, 1574. 
+BibRadz 
+Biblija (tzw. brzeska), 1563. 
+BibRadzBaz 
+jw., wiersz C. Bazylika. 
+BielKom 
+M. Bielski, Komedyja Justyna i Konstancyjej, 1557. 
+BielKron 
+M. Bielski, Kronika, 1564. 
+BielKronCies 
+jw., przedmowa A. Ciesielskiego. 
+BielRozm 
+M. Bielski, Rozmowa dwu baranów, 1587. 
+BielSat 
+M. Bielski, Satyry, 1567. 
+BielSen 
+M. Bielski, Sen majowy, 1586. 
+BielSenJoach 
+jw., dedykacja J. Bielskiego. 
+BielSjem 
+M. Bielski, Sjem niewieści, 1586. 
+BielSpr 
+M. Bielski, Sprawa rycerska, 1569. 
+BielŻyw 
+M. Bielski, Żywoty filozofów, 1535. 
+BielŻywGlab 
+jw., przedmowa A. Glabera. 
+BielŻywUng 
+jw., wiersz F. Unglera. 
+BierEz 
+Biernat z Lublina, Ezop, 1578 [1522]. 
+BierRaj 
+Biernat z Lublina, Raj duszny, 1513. 
+BierRozm 
+Biernat z Lublina, Rozmowa Palinura z Charo- nem, 1536. 
+BudBib 
+Sz. Budny, Biblija, 1572. 
+BudBibKaw 
+jw., dedykacja H. i A. Kawieczyńskich. 
+BudNT 
+Sz. Budny, Nowy Testament, 1574. 
+Calag 
+A. Calagius, Synonyma Latina, 1579. 
+Calep 
+A. Calepinus, Dictionarium decem linguarum, 
+1588. 
+CiekPotr 
+P. Ciekliński, Potrójny, 1597. 
+CiekPotrHerb 
+jw., wiersze S. Herburta. 
+CiekPotrOstr 
+jw., wiersz J. Ostroroga. 
+CiekPotrSzym 
+jw., wiersze S. Szymonowica. 
+CiekPotrŚredz 
+jw., wiersze A. Średzińskiego. 
+ComCrac 
+In comitiis generalibus Cracoviensibus, 1543. 
+ConPiotr 
+Constitutiones Conventus Generalis Piotrco- 
+viensis, 1544. 
+CzahTr 
+A. Czahrowski, Treny, 1597. 
+CzahTrPapr 
+jw., ośmiowiersz B. Paprockiego. 
+CzechEp 
+M. Czechowic, Epistomium, 1583. 
+CzechEpPOrz 
+jw., list P. Orzechowskiego. 
+CzechRozm 
+M. Czechowic, Rozmowy chrystyjańskie, 
+1575. 
+Diar 
+Diariusz sejmowy 1556–1557. 
+DiarDop 
+jw., dopełnienia. 
+FalZioł 
+S. Falimirz, O ziołach, 1534. 
+FalZiołSpicz 
+jw., wiersz H. Spiczyńskiego. 
+FalZiołUng 
+jw., przedmowa F. Unglera. 
+ForCnR 
+Fortuny i cnoty różność, 1524. 
+ForCnRWiet 
+jw., przedmowa H. Wietora. 
+GlabGad 
+A. Glaber, Gadki z pisma wielkiego filozofa 
+Arystotela, 1535. 
+GliczKsiąż 
+E. Gliczner, Książki o wychowaniu dzieci, 
+1558. 
+Goski 
+K. Goski, Dzienne sprawy, 1563. 
+GosłCast 
+S. Gosławski, Castus Ioseph, 1597. 
+GostGosp 
+A. Gostomski, Gospodarstwo, 1588. 
+GostGospGroch jw., wiersz S. Grochowskiego. 
+GostGospPon 
+jw., fragmenty Ziemianina J. Ponętowskiego. 
+GostGospSieb 
+jw., przedmowa J. Siebeneichera. 
+GórnDworz 
+Ł. Górnicki, Dworzanin, 1566. 
+GórnRozm 
+Ł. Górnicki, Rozmowa Polaka z Włochem, 
+1587. 
+GórnTroas 
+Ł. Górnicki, Troas, 1589. 
+GrabowSet 
+S. Grabowiecki, Setnik rymów, 1590. 
+GrabPospR 
+P. Grabowski, Pospolite ruszenie bojne, 1595. 
+GrochKal 
+S. Grochowski, Kalliopea słowieńska, 1588. 
+GroicPorz 
+B. Groicki, Porządek sądów, 1559. 
+GroicPorzRej 
+jw., wiersz M. Reja. 
+GrzegRóżn 
+Grzegorz Paweł, O różnicach teraźniejszych, 
+1564. 
+GrzegŚm 
+Grzegorz Paweł, O prawdziwej śmierci, 1568. 
+GrzepGeom 
+S. Grzepski, Geometryja, 1566. 
+HistAl 
+Historyja Aleksandra Wielkiego, 1550. 
+HistAlHUng 
+jw., dedykacja H. Unglerowej. 
+HistHel 
+Historyja o Helijaszu, 1572. 
+HistJóz 
+Historyja o św. Józefie, 1530. 
+HistLan 
+Historyja ... w Landzie, 1568. 
+HistRzym 
+Historyje rzymskie, 1566. 
+JanNKar 
+J. Januszowski, Nowy karakter, 1594. 
+JanNKarGórn 
+jw., ortografia Ł. Górnickiego. 
+JanNKarKoch 
+jw., ortografia J. Kochanowskiego. 
+JanNKarOrz 
+jw., list S. Orzechowskiego. 
+KarnNap 
+S. Karnkowski, Napominania, 1577. 
+KlerPow 
+S. Kleryka, O powyższeniu Zygmunta Augu- 
+sta, 1530. 
+KlerWes 
+S. Kleryka, Na wesele królewny Izabelle, 
+1539. 
+KlonFlis 
+S. F. Klonowic, Flis, 1598. 
+KlonKr 
+S. F. Klonowic, Królów i książąt polskich ... 
+opis, (po 1595). 
+KlonKrGum 
+jw., dedykacja T. B. Gumowskiego. 
+KlonWor 
+S. F. Klonowic, Worek Judaszów, 1600. 
+KlonŻal 
+S. F. Klonowic, Żale nagrobne, 1585. 
+KłosAlg 
+T. Kłos, Algorithmus, 1538. 
+KmitaPsal 
+J. A. Kmita, Psalma przyjazdu Zygmunta III, 
+1587. 
+KmitaSpit 
+J. A. Kmita, Spitamegeranomachia, 1595. 
+KochAp 
+J. Kochanowski, Apoftegmata, 1590. 
+KochBr 
+J. Kochanowski, Broda, 1585/1586. 
+KochCn 
+J. Kochanowski, Wykład cnoty, 1589. 
+KochCz 
+J. Kochanowski, O Czechu i Lechu, 1589. 
+KochCzJan 
+jw., przedmowa J. Januszowskiego. 
+SKOROWIDZ SKRÓTÓW ŹRÓDŁOWYCH I 
+XXXII t. Słownika... 
+
+ActReg 
+Acta primi regiminis Sigismundi III, 1588. 
+ArtKanc 
+P. Artomiusz, Kancyjonał, 1587. 
+BartBydg 
+Bartłomiej z Bydgoszczy, Słownik łacińsko- 
+-polski, 1532. 
+BiałKat 
+M. Białobrzeski, Katechizm, 1566. 
+BiałKaz 
+M. Białobrzeski, Kazanie na pogrzebie Zyg- 
+munta Augusta, 1574. 
+BibRadz 
+Biblija (tzw. brzeska), 1563. 
+BibRadzBaz 
+jw., wiersz C. Bazylika. 
+BielKom 
+M. Bielski, Komedyja Justyna i Konstancyjej, 
+1557. 
+BielKron 
+M. Bielski, Kronika, 1564. 
+BielKronCies 
+jw., przedmowa A. Ciesielskiego. 
+BielRozm 
+M. Bielski, Rozmowa dwu baranów, 1587. 
+BielSat 
+M. Bielski, Satyry, 1567. 
+BielSen 
+M. Bielski, Sen majowy, 1586. 
+BielSenJoach 
+jw., dedykacja J. Bielskiego. 
+BielSjem 
+M. Bielski, Sjem niewieści, 1586. 
+BielSpr 
+M. Bielski, Sprawa rycerska, 1569. 
+BielŻyw 
+M. Bielski, Żywoty filozofów, 1535. 
+BielŻywGlab 
+jw., przedmowa A. Glabera. 
+BielŻywUng 
+jw., wiersz F. Unglera. 
+BierEz 
+Biernat z Lublina, Ezop, 1578 [1522]. 
+BierRaj 
+Biernat z Lublina, Raj duszny, 1513. 
+BierRozm 
+Biernat z Lublina, Rozmowa Palinura z Charo- 
+nem, 1536. 
+BudBib 
+Sz. Budny, Biblija, 1572. 
+BudBibKaw 
+jw., dedykacja H. i A. Kawieczyńskich. 
+BudNT 
+Sz. Budny, Nowy Testament, 1574. 
+Calag 
+A. Calagius, Synonyma Latina, 1579. 
+Calep 
+A. Calepinus, Dictionarium decem linguarum, 
+1588. 
+CiekPotr 
+P. Ciekliński, Potrójny, 1597. 
+CiekPotrHerb 
+jw., wiersze S. Herburta. 
+CiekPotrOstr 
+jw., wiersz J. Ostroroga. 
+CiekPotrSzym 
+jw., wiersze S. Szymonowica. 
+CiekPotrŚredz 
+jw., wiersze A. Średzińskiego. 
+ComCrac 
+In comitiis generalibus Cracoviensibus, 1543. 
+ConPiotr 
+Constitutiones Conventus Generalis Piotrco- 
+viensis, 1544. 
+CzahTr 
+A. Czahrowski, Treny, 1597. 
+CzahTrPapr 
+jw., ośmiowiersz B. Paprockiego. 
+CzechEp 
+M. Czechowic, Epistomium, 1583. 
+CzechEpPOrz 
+jw., list P. Orzechowskiego. 
+CzechRozm 
+M. Czechowic, Rozmowy chrystyjańskie, 
+1575. 
+Diar 
+Diariusz sejmowy 1556–1557. 
+DiarDop 
+jw., dopełnienia. 
+FalZioł 
+S. Falimirz, O ziołach, 1534. 
+FalZiołSpicz 
+jw., wiersz H. Spiczyńskiego. 
+FalZiołUng 
+jw., przedmowa F. Unglera. 
+ForCnR 
+Fortuny i cnoty różność, 1524. 
+ForCnRWiet 
+jw., przedmowa H. Wietora. 
+GlabGad 
+A. Glaber, Gadki z pisma wielkiego filozofa 
+Arystotela, 1535. 
+GliczKsiąż 
+E. Gliczner, Książki o wychowaniu dzieci, 
+1558. 
+Goski 
+K. Goski, Dzienne sprawy, 1563. 
+GosłCast 
+S. Gosławski, Castus Ioseph, 1597. 
+GostGosp 
+A. Gostomski, Gospodarstwo, 1588. 
+GostGospGroch jw., wiersz S. Grochowskiego. 
+GostGospPon 
+jw., fragmenty Ziemianina J. Ponętowskiego. 
+GostGospSieb 
+jw., przedmowa J. Siebeneichera. 
+GórnDworz 
+Ł. Górnicki, Dworzanin, 1566. 
+GórnRozm 
+Ł. Górnicki, Rozmowa Polaka z Włochem, 
+1587. 
+GórnTroas 
+Ł. Górnicki, Troas, 1589. 
+GrabowSet 
+S. Grabowiecki, Setnik rymów, 1590. 
+GrabPospR 
+P. Grabowski, Pospolite ruszenie bojne, 1595. 
+GrochKal 
+S. Grochowski, Kalliopea słowieńska, 1588. 
+GroicPorz 
+B. Groicki, Porządek sądów, 1559. 
+GroicPorzRej 
+jw., wiersz M. Reja. 
+GrzegRóżn 
+Grzegorz Paweł, O różnicach teraźniejszych, 
+1564. 
+GrzegŚm 
+Grzegorz Paweł, O prawdziwej śmierci, 1568. 
+GrzepGeom 
+S. Grzepski, Geometryja, 1566. 
+HistAl 
+Historyja Aleksandra Wielkiego, 1550. 
+HistAlHUng 
+jw., dedykacja H. Unglerowej. 
+HistHel 
+Historyja o Helijaszu, 1572. 
+HistJóz 
+Historyja o św. Józefie, 1530. 
+HistLan 
+Historyja ... w Landzie, 1568. 
+HistRzym 
+Historyje rzymskie, 1566. 
+JanNKar 
+J. Januszowski, Nowy karakter, 1594. 
+JanNKarGórn 
+jw., ortografia Ł. Górnickiego. 
+JanNKarKoch 
+jw., ortografia J. Kochanowskiego. 
+JanNKarOrz 
+jw., list S. Orzechowskiego. 
+KarnNap 
+S. Karnkowski, Napominania, 1577. 
+KlerPow 
+S. Kleryka, O powyższeniu Zygmunta Augu- 
+sta, 1530. 
+KlerWes 
+S. Kleryka, Na wesele królewny Izabelle, 
+1539. 
+KlonFlis 
+S. F. Klonowic, Flis, 1598. 
+KlonKr 
+S. F. Klonowic, Królów i książąt polskich ... 
+opis, (po 1595). 
+KlonKrGum 
+jw., dedykacja T. B. Gumowskiego. 
+KlonWor 
+S. F. Klonowic, Worek Judaszów, 1600. 
+KlonŻal 
+S. F. Klonowic, Żale nagrobne, 1585. 
+KłosAlg 
+T. Kłos, Algorithmus, 1538. 
+KmitaPsal 
+J. A. Kmita, Psalma przyjazdu Zygmunta III, 
+1587. 
+KmitaSpit 
+J. A. Kmita, Spitamegeranomachia, 1595. 
+KochAp 
+J. Kochanowski, Apoftegmata, 1590. 
+KochBr 
+J. Kochanowski, Broda, 1585/1586. 
+KochCn 
+J. Kochanowski, Wykład cnoty, 1589. 
+KochCz 
+J. Kochanowski, O Czechu i Lechu, 1589. 
+KochCzJan 
+jw., przedmowa J. Januszowskiego. 
+SKOROWIDZ SKRÓTÓW ŹRÓDŁOWYCH I 
+XXXII t. Słownika... 
+KochDryas 
+J. Kochanowski, Dryas, 1578. 
+KochDz 
+J. Kochanowski, Dziewosłąb, 1585. 
+KochEpit 
+J. Kochanowski, Epithalamium na wesele Ra- 
+dziwiłła, 1584. 
+KochEpitCat 
+J. Kochanowski, Epithalamium (z Katulla), 
+1585. 
+KochFr 
+J. Kochanowski, Fraszki, 1584. 
+KochFrag 
+J. Kochanowski, Fragmenta, 1590. 
+KochFragJan 
+jw., przedmowa J. Januszowskiego. 
+KochJez 
+J. Kochanowski, Jezda do Moskwy, 1583. 
+KochList 
+J. Kochanowski, List do Fogelwedera, 1571. 
+KochMarsz 
+J. Kochanowski, Marszałek, 1585. 
+KochMon 
+J. Kochanowski, Monomachia, 1569–1586. 
+KochMRot 
+M. Kochanowski, Rotuły, 1585. 
+KochMuza 
+J. Kochanowski, Muza, 1585. 
+KochOdpr 
+J. Kochanowski, Odprawa posłów greckich, 
+1578. 
+KochPam 
+J. Kochanowski, Pamiątka Janowi na Tęczy- 
+nie, 1586. 
+KochPhaen 
+J. Kochanowski, Phaenomena, 1585. 
+KochPieś 
+J. Kochanowski, Pieśni, 1586. 
+KochPij 
+J. Kochanowski, O sprosności pijaństwa, 1589. 
+KochProp 
+J. Kochanowski, Proporzec, 1587. 
+KochPropKKoch jw., dedykacja K. Kochanowskiego. 
+KochPs 
+J. Kochanowski, Psałterz Dawidów, 1579. 
+KochSat 
+J. Kochanowski, Satyr, 1564. 
+KochSob 
+J. Kochanowski, Pieśń ... o sobótce, 1586. 
+KochSz 
+J. Kochanowski, Szachy, 1585. 
+KochTarn 
+J. Kochanowski, O śmierci Jana Tarnowskiego, 
+1586. 
+KochTr 
+J. Kochanowski, Treny, 1580. 
+KochWr 
+J. Kochanowski, Wróżki, 1587. 
+KochWrJan 
+jw., przedmowa J. Januszowskiego. 
+KochWz 
+J. Kochanowski, Wzór pań mężnych, 1585. 
+KochZg 
+J. Kochanowski, Zgoda, 1564. 
+KochZuz 
+J. Kochanowski, Zuzanna, 1562. 
+KołakCath 
+S. Kołakowski, Cathemerinon, 1593. 
+KołakCathOkuń jw., dedykacja M. Okunia. 
+KołakSzczęśl 
+S. Kołakowski, O prawdziwej szczęśliwości, 
+1593. 
+KromRozm I 
+M. Kromer, Rozmowa dworzanina z mnichem, 
+1551. 
+KromRozm II 
+M. Kromer, Mnicha z dworzaninem rozmowa 
+wtóra, 1552. 
+KromRozm III 
+M. Kromer, Mnicha z dworzaninem rozmowa 
+trzecia, 1553. 
+KrowObr 
+M. Krowicki, Obrona nauki, 1560. 
+KuczbKat 
+W. Kuczborski, Katechizm, 1568. 
+KwiatKsiąż 
+M. Kwiatkowski, Książeczki rozkoszne ... o 
+poćciwym wychowaniu dziatek, 1564. 
+KwiatOpis 
+M. Kwiatkowski, Wszystkiej liflanckiej ziemie 
+... opisanie, 1567. 
+LatHar 
+M. Laterna, Harfa duchowna, 1592. 
+Leop 
+J. Leopolita, Biblija, 1561. 
+LeovPrzep 
+C. Leovicius – Stanisław z Rawy, Przepowie- 
+dzenie przygód, 1565. 
+LeovPrzepSamb jw., wiersz G. Samborczyka. 
+LeszczRzecz 
+R. Leszczyński, Rzecz, którą uczynił do ... kró- 
+la Zygmunta Augusta ... Rafał Leszczyński, 
+1562. 
+LibLeg 
+Libri legationum, 1500–1547. 
+LibMal 
+Liber maleficorum, 1543–1554. 
+ListRzeź 
+List rzeźników wrocławskich, 1512. 
+LubPs 
+J. Lubelczyk, Psałterz, 1558. 
+LudWieś 
+Ludycyje wieśne, 1544. 
+March1 
+Jan z Koszyczek, Marchołt, 1521. 
+March1Wiet 
+jw., dedykacja H. Wietora. 
+March2 
+Jan z Koszyczek, Marchołt, ca 1535. 
+March3 
+Jan z Koszyczek, Marchołt, 1539. 
+Mącz 
+J. Mączyński, Lexicon, 1564. 
+MączKoch 
+jw., wiersz J. Kochanowskiego. 
+MączLub 
+jw., wiersz J. Lubelczyka. 
+MetrKor 
+Metryka Koronna, 1511–1540. 
+MiechGlab 
+M. Miechowita – A. Glaber, Polskie wypisanie 
+dwojej krainy świata, 1535. 
+ModrzBaz 
+A. Frycz Modrzewski – C. Bazylik, O popra- 
+wie Rzeczypospolitej, 1577. 
+ModrzBazBud 
+jw., przedmowa S. Budnego. 
+ModrzBazStryj 
+jw., wiersz M. Stryjkowskiego. 
+MrowPieś 
+J. Mrowiński, Pieśń ... na wesele ... pana Jana 
+Kostki z Stymbarku, 1556. 
+Murm 
+J. Murmelius, Dictionarius, 1528. 
+MurzHist 
+S. Murzynowski, Historyja żałosna ... o Franci- 
+szku Spierze, 1551. 
+MurzHistSekl 
+jw., przedmowa J. Seklucjana. 
+MurzNT 
+S. Murzynowski, Testamentu Nowego część 
+pierwsza, 1551. 
+MurzNTSekl 
+jw., dedykacja J. Seklucjana. 
+MurzOrt 
+S. Murzynowski, Ortografija polska, 1551. 
+MWilkHist 
+Mikołaj z Wilkowiecka, Historyja o chwaleb- 
+nym zmartwychwstaniu, ca 1580. 
+MycPrz 
+P. Mycielski, Przestroga, 1573. 
+Mymer1 
+F. Mymer, Dictionarium, 1528. 
+Mymer2 
+F. Mymer, Dictionarium, 1541. 
+NiemObr 
+J. Niemojewski, Obrona, 1583. 
+Oczko 
+W. Oczko, Cieplice, 1578. 
+OpecŻyw 
+B. Opec, Żywot Pana Jezu Krysta, 1522. 
+OpecŻywList 
+jw., Listy Lentulusa i Piłata. 
+OpecŻywPrzedm jw., przedmowa anonimowego autora. 
+OpecŻywSandP jw., przedmowa J. Sandeckiego. 
+OpecŻywSandR jw., rejestr i czterowiersz J. Sandeckiego. 
+OrzJan 
+S. Orzechowski – J. Januszowski, Oksza, 
+1590. 
+OrzList 
+S. Orzechowski, Listy, 1561. 
+OrzQuin 
+S. Orzechowski, Quincunx, 1564. 
+OrzRozm 
+S. Orzechowski, Rozmowa ... około egzekucy- 
+jej, 1563. 
+OstrEpit 
+J. Ostrowski, Epithalamium, 1590. 
+PaprPan 
+B. Paprocki, Panosza, 1575. 
+PaprUp 
+B. Paprocki, Upominek albo przestroga, 1587. 
+PatKaz I 
+Jan z Szamotuł (Paterek), Kazania, inc.: O po- 
+częciu Maryjej Panny czystej, 1525. 
+PatKaz II 
+Jan z Szamotuł (Paterek), Kazania, inc.: Po- 
+czyna się kazanie drugie o poczęciu przena- 
+czystszej dziewice Panny Maryjej, 1525. 
+PatKaz III 
+Jan z Szamotuł (Paterek), Kazania, inc.: O na- 
+rodzeniu Maryjej Panny, 1525. 
+PaxLiz 
+A. Paxillus, Komedyja o Lizydzie, 1597. 
+Phil 
+Philopolites, 1588. 
+PowodPr 
+H. Powodowski, Propozycyja z wyroków Pis- 
+ma Św. zebrana, 1595. 
+PowUrb 
+Powieść o papieżu Urbanie, 1514. 
+Prot 
+Proteus abo odmieniec, 1564. 
+ProtBaz 
+jw., wiersz C. Bazylika. 
+ProtStoj 
+jw., wiersz P. Stojeńskiego. 
+PudłDydo 
+M. Pudłowski, Dydo, 1600. 
+PudłFr 
+M. Pudłowski, Fraszki, 1586. 
+RejAp 
+M. Rej, Apokalipsis, 1565. 
+RejFig 
+M. Rej, Figliki, 1562. 
+RejJóz 
+M. Rej, Żywot Józefa, 1545. 
+RejKup 
+M. Rej, Kupiec, 1549. 
+RejKupSekl 
+jw., przedmowa J. Seklucjana. 
+RejŁas 
+M. Rej, Wiersz na śmierć Łaskiego, 1541. 
+RejPos 
+M. Rej, Postylla, 1566 (wyd. 3). 
+RejPosRozpr 
+jw., M. Rej, Rozprawa cudna (w wyd. 4, 
+1571). 
+
+KochDryas 
+J. Kochanowski, Dryas, 1578. 
+KochDz 
+J. Kochanowski, Dziewosłąb, 1585. 
+KochEpit 
+J. Kochanowski, Epithalamium na wesele Ra- 
+dziwiłła, 1584. 
+KochEpitCat 
+J. Kochanowski, Epithalamium (z Katulla), 
+1585. 
+KochFr 
+J. Kochanowski, Fraszki, 1584. 
+KochFrag 
+J. Kochanowski, Fragmenta, 1590. 
+KochFragJan 
+jw., przedmowa J. Januszowskiego. 
+KochJez 
+J. Kochanowski, Jezda do Moskwy, 1583. 
+KochList 
+J. Kochanowski, List do Fogelwedera, 1571. 
+KochMarsz 
+J. Kochanowski, Marszałek, 1585. 
+KochMon 
+J. Kochanowski, Monomachia, 1569–1586. 
+KochMRot 
+M. Kochanowski, Rotuły, 1585. 
+KochMuza 
+J. Kochanowski, Muza, 1585. 
+KochOdpr 
+J. Kochanowski, Odprawa posłów greckich, 
+1578. 
+KochPam 
+J. Kochanowski, Pamiątka Janowi na Tęczy- 
+nie, 1586. 
+KochPhaen 
+J. Kochanowski, Phaenomena, 1585. 
+KochPieś 
+J. Kochanowski, Pieśni, 1586. 
+KochPij 
+J. Kochanowski, O sprosności pijaństwa, 1589. 
+KochProp 
+J. Kochanowski, Proporzec, 1587. 
+KochPropKKoch jw., dedykacja K. Kochanowskiego. 
+KochPs 
+J. Kochanowski, Psałterz Dawidów, 1579. 
+KochSat 
+J. Kochanowski, Satyr, 1564. 
+KochSob 
+J. Kochanowski, Pieśń ... o sobótce, 1586. 
+KochSz 
+J. Kochanowski, Szachy, 1585. 
+KochTarn 
+J. Kochanowski, O śmierci Jana Tarnowskiego, 
+1586. 
+KochTr 
+J. Kochanowski, Treny, 1580. 
+KochWr 
+J. Kochanowski, Wróżki, 1587. 
+KochWrJan 
+jw., przedmowa J. Januszowskiego. 
+KochWz 
+J. Kochanowski, Wzór pań mężnych, 1585. 
+KochZg 
+J. Kochanowski, Zgoda, 1564. 
+KochZuz 
+J. Kochanowski, Zuzanna, 1562. 
+KołakCath 
+S. Kołakowski, Cathemerinon, 1593. 
+KołakCathOkuń jw., dedykacja M. Okunia. 
+KołakSzczęśl 
+S. Kołakowski, O prawdziwej szczęśliwości, 
+1593. 
+KromRozm I 
+M. Kromer, Rozmowa dworzanina z mnichem, 
+1551. 
+KromRozm II 
+M. Kromer, Mnicha z dworzaninem rozmowa 
+wtóra, 1552. 
+KromRozm III 
+M. Kromer, Mnicha z dworzaninem rozmowa 
+trzecia, 1553. 
+KrowObr 
+M. Krowicki, Obrona nauki, 1560. 
+KuczbKat 
+W. Kuczborski, Katechizm, 1568. 
+KwiatKsiąż 
+M. Kwiatkowski, Książeczki rozkoszne ... o 
+poćciwym wychowaniu dziatek, 1564. 
+KwiatOpis 
+M. Kwiatkowski, Wszystkiej liflanckiej ziemie 
+... opisanie, 1567. 
+LatHar 
+M. Laterna, Harfa duchowna, 1592. 
+Leop 
+J. Leopolita, Biblija, 1561. 
+LeovPrzep 
+C. Leovicius – Stanisław z Rawy, Przepowie- 
+dzenie przygód, 1565. 
+LeovPrzepSamb jw., wiersz G. Samborczyka. 
+LeszczRzecz 
+R. Leszczyński, Rzecz, którą uczynił do ... kró- 
+la Zygmunta Augusta ... Rafał Leszczyński, 
+1562. 
+LibLeg 
+Libri legationum, 1500–1547. 
+LibMal 
+Liber maleficorum, 1543–1554. 
+ListRzeź 
+List rzeźników wrocławskich, 1512. 
+LubPs 
+J. Lubelczyk, Psałterz, 1558. 
+LudWieś 
+Ludycyje wieśne, 1544. 
+March1 
+Jan z Koszyczek, Marchołt, 1521. 
+March1Wiet 
+jw., dedykacja H. Wietora. 
+March2 
+Jan z Koszyczek, Marchołt, ca 1535. 
+March3 
+Jan z Koszyczek, Marchołt, 1539. 
+Mącz 
+J. Mączyński, Lexicon, 1564. 
+MączKoch 
+jw., wiersz J. Kochanowskiego. 
+MączLub 
+jw., wiersz J. Lubelczyka. 
+MetrKor 
+Metryka Koronna, 1511–1540. 
+MiechGlab 
+M. Miechowita – A. Glaber, Polskie wypisanie 
+dwojej krainy świata, 1535. 
+ModrzBaz 
+A. Frycz Modrzewski – C. Bazylik, O popra- 
+wie Rzeczypospolitej, 1577. 
+ModrzBazBud 
+jw., przedmowa S. Budnego. 
+ModrzBazStryj 
+jw., wiersz M. Stryjkowskiego. 
+MrowPieś 
+J. Mrowiński, Pieśń ... na wesele ... pana Jana 
+Kostki z Stymbarku, 1556. 
+Murm 
+J. Murmelius, Dictionarius, 1528. 
+MurzHist 
+S. Murzynowski, Historyja żałosna ... o Franci- 
+szku Spierze, 1551. 
+MurzHistSekl 
+jw., przedmowa J. Seklucjana. 
+MurzNT 
+S. Murzynowski, Testamentu Nowego część 
+pierwsza, 1551. 
+MurzNTSekl 
+jw., dedykacja J. Seklucjana. 
+MurzOrt 
+S. Murzynowski, Ortografija polska, 1551. 
+MWilkHist 
+Mikołaj z Wilkowiecka, Historyja o chwaleb- 
+nym zmartwychwstaniu, ca 1580. 
+MycPrz 
+P. Mycielski, Przestroga, 1573. 
+Mymer1 
+F. Mymer, Dictionarium, 1528. 
+Mymer2 
+F. Mymer, Dictionarium, 1541. 
+NiemObr 
+J. Niemojewski, Obrona, 1583. 
+Oczko 
+W. Oczko, Cieplice, 1578. 
+OpecŻyw 
+B. Opec, Żywot Pana Jezu Krysta, 1522. 
+OpecŻywList 
+jw., Listy Lentulusa i Piłata. 
+OpecŻywPrzedm jw., przedmowa anonimowego autora. 
+OpecŻywSandP jw., przedmowa J. Sandeckiego. 
+OpecŻywSandR jw., rejestr i czterowiersz J. Sandeckiego. 
+OrzJan 
+S. Orzechowski – J. Januszowski, Oksza, 
+1590. 
+OrzList 
+S. Orzechowski, Listy, 1561. 
+OrzQuin 
+S. Orzechowski, Quincunx, 1564. 
+OrzRozm 
+S. Orzechowski, Rozmowa ... około egzekucy- 
+jej, 1563. 
+OstrEpit 
+J. Ostrowski, Epithalamium, 1590. 
+PaprPan 
+B. Paprocki, Panosza, 1575. 
+PaprUp 
+B. Paprocki, Upominek albo przestroga, 1587. 
+PatKaz I 
+Jan z Szamotuł (Paterek), Kazania, inc.: O po- 
+częciu Maryjej Panny czystej, 1525. 
+PatKaz II 
+Jan z Szamotuł (Paterek), Kazania, inc.: Po- 
+czyna się kazanie drugie o poczęciu przena- 
+czystszej dziewice Panny Maryjej, 1525. 
+PatKaz III 
+Jan z Szamotuł (Paterek), Kazania, inc.: O na- 
+rodzeniu Maryjej Panny, 1525. 
+PaxLiz 
+A. Paxillus, Komedyja o Lizydzie, 1597. 
+Phil 
+Philopolites, 1588. 
+PowodPr 
+H. Powodowski, Propozycyja z wyroków Pis- 
+ma Św. zebrana, 1595. 
+PowUrb 
+Powieść o papieżu Urbanie, 1514. 
+Prot 
+Proteus abo odmieniec, 1564. 
+ProtBaz 
+jw., wiersz C. Bazylika. 
+ProtStoj 
+jw., wiersz P. Stojeńskiego. 
+PudłDydo 
+M. Pudłowski, Dydo, 1600. 
+PudłFr 
+M. Pudłowski, Fraszki, 1586. 
+RejAp 
+M. Rej, Apokalipsis, 1565. 
+RejFig 
+M. Rej, Figliki, 1562. 
+RejJóz 
+M. Rej, Żywot Józefa, 1545. 
+RejKup 
+M. Rej, Kupiec, 1549. 
+RejKupSekl 
+jw., przedmowa J. Seklucjana. 
+RejŁas 
+M. Rej, Wiersz na śmierć Łaskiego, 1541. 
+RejPos 
+M. Rej, Postylla, 1566 (wyd. 3). 
+RejPosRozpr 
+jw., M. Rej, Rozprawa cudna (w wyd. 4, 
+1571). 
+RejPosWiecz2 
+jw., M. Rej, Wtóra rozprawa o wieczerzy (w 
+wyd. 3). 
+RejPosWiecz3 
+jw., M. Rej, Trzecia rozprawa o wieczerzy (w 
+wyd. 3). 
+RejPosWstaw 
+jw., wstawki M. Reja do wyd. 4, 1571. 
+RejPs 
+M. Rej, Psałterz, 1541. 
+RejRozm 
+M. Rej, Rozmowa lwa z kotem, 1548–1551. 
+RejRozpr 
+M. Rej, Krótka rozprawa, 1543. 
+RejWiz 
+M. Rej, Wizerunk, 1560. 
+RejZwierc 
+M. Rej, Zwierciadło, 1568. 
+RejZwiercPodw jw., wiersz J. Podwysockiego. 
+RejZwiercTrzec jw., wiersze A. Trzecieskiego. 
+RejZwierz 
+M. Rej, Zwierzyniec, 1562. 
+RejZwierz[Wirzb] jw., wiersz M. Wirzbięty. 
+ReszPrz 
+S. Reszka, Przestroga pastyrska, 1585. 
+ReszHoz 
+jw., Opisanie S. Hozjusza. 
+ReszList 
+jw., list anonimowego autora. 
+RybGęśli 
+J. Rybiński, Gęśli różnorymych księga I, 1593. 
+RybWit 
+J. Rybiński, Witanie, 1600. 
+SapEpit 
+J. Sapieha, Epithalamium na wesele ... Leona 
+Sapiehy, 1599. 
+SarnStat 
+S. Sarnicki, Statuta, 1594. 
+SarnUzn 
+S. Sarnicki, O uznaniu Pana Boga ... kazanie, 
+1564. 
+SeklKat 
+J. Seklucjan, Catechismus, 1547. 
+SeklPieś 
+J. Seklucjan, Pieśni chrześcijańskie, 1559. 
+SeklWyzn 
+J. Seklucjan, Wyznanie wiary, 1544. 
+SiebRozmyśl 
+A. Siebeneicherowa, Rozmyślania, 1594. 
+SienLek 
+M. Siennik, Lekarstwa doświadczone, 1564. 
+SienLekAndr 
+jw., dedykacja Ł. Andrysowica. 
+SkarJedn 
+P. Skarga, O jedności Kościoła bożego, 1577. 
+SkarKaz 
+P. Skarga, Kazania na niedziele i święta, 1595. 
+SkarKazSej 
+P. Skarga, Kazania sejmowe, 1597. 
+SkarŻyw 
+P. Skarga, Żywoty świętych, 1579. 
+SkarŻywBog 
+jw., tekst Bogurodzicy. 
+SkorWinsz 
+W. Skorawiec, Winszowanie p. Zofijej z Miel- 
+ca, 1598. 
+Strum 
+O. Strumieński, O sprawie ... i rybieniu sta- 
+wów, 1573. 
+StryjKron 
+M. Stryjkowski, Kronika polska, 1582. 
+StryjWjaz 
+M. Stryjkowski, Przesławnego wjazdu do Kra- 
+kowa ... Henryka Walezyjusza ... opisanie, 
+1574. 
+SzarzRyt 
+M. Sęp Szarzyński, Rytmy, 1601. 
+SzarzRytJSzarz jw., dedykacja J. Szarzyńskiego. 
+SzarzRytLeśn 
+jw., wiersz J. Leśniowskiego. 
+TarDuch 
+Tarcza duchowna, 1533. 
+UstPraw 
+J. Palczowski, Ustawy prawa polskiego, 1561. 
+VotSzl 
+Votum szlachcica polskiego, 1596. 
+WerGośc 
+J. Wereszczyński, Gościniec pewny niepomier- 
+nym moczygębom, 1585. 
+WerGoścPapr 
+jw., wiersz B. Paprockiego. 
+WerKaz 
+J. Wereszczyński, Kazanie przy przyjmowaniu 
+świątości małżeństwa, 1585. 
+WerKazPapr 
+jw., wiersz B. Paprockiego. 
+WierKróc 
+Wierszyki króciuchne, 1573. 
+WisznTr 
+T. Wiszniowski, Treny, 1585. 
+WitosłLut 
+M. Witosławski, Lutnia na wesele ... J. Chod- 
+kiewicza, 1594. 
+WróbŻołt 
+W. Wróbel, Żołtarz Dawidów, 1539. 
+WróbŻołtGlab 
+jw., przypis A. Glabera. 
+WujJud 
+J. Wujek, Iudicium, 1570. 
+WujJudConf 
+jw., Konfessyja abo wyznanie wiary powsze- 
+chnej kościołów krześcijańskich polskich. 
+WujNT 
+J. Wujek, Nowy Testament, 1593. 
+WyprKr 
+Wyprawa królewny, 1562. 
+WyprPl 
+Wyprawa plebańska, 1590. 
+WysKaz 
+S. Wysocki, Kazanie na pogrzebie ... Jana Sy- 
+meona Olelkowicza, 1593. 
+ZapKościer 
+Akta prawne miasta Kościerzyny, 1579–1597. 
+ZapMaz 
+Zapiski mazowieckie, 1503–1594. 
+ZapMaz I 
+Księga ciechanowska grodzka dissoluta, 1512. 
+ZapMaz II Ł 
+Księga miejska ławnicza płocka, 1500–1517. 
+ZapMaz II G Księga płocka grodzka, 1531–1594. 
+ZapMaz III T Pułtuskie testamenta, 1508–1519. 
+ZapMaz III G Księga pułtuska grodzka, 1573. 
+ZapMaz IV 
+Księga wieluńska grodzka, 1531. 
+ZapMaz V 
+Księga warszawska ziemska grodzka, 1504. 
+ZapMaz V S 
+Stara Warszawa, 1542. 
+ZapMaz VI 
+Księga wyszogrodzka ziemska omnium trans., 
+1501, 1521. 
+ZapMaz VII Z Księga zakroczymska ziemska, 1501–1567. 
+ZapMaz VII G Księga zakroczymska grodzka, 1537, 1539, 
+1544. 
+ZapWar 
+Zapiski i roty polskie, 1501–1558. 
+ZawJeft 
+J. Zawicki, Iephtes, 1587. 
+ZbylPrzyg 
+P. Zbylitowski, Przygana wymyślnym strojom 
+białogłowskim, 1600. 
+
+RejPosWiecz2 
+jw., M. Rej, Wtóra rozprawa o wieczerzy (w 
+wyd. 3). 
+RejPosWiecz3 
+jw., M. Rej, Trzecia rozprawa o wieczerzy (w 
+wyd. 3). 
+RejPosWstaw 
+jw., wstawki M. Reja do wyd. 4, 1571. 
+RejPs 
+M. Rej, Psałterz, 1541. 
+RejRozm 
+M. Rej, Rozmowa lwa z kotem, 1548–1551. 
+RejRozpr 
+M. Rej, Krótka rozprawa, 1543. 
+RejWiz 
+M. Rej, Wizerunk, 1560. 
+RejZwierc 
+M. Rej, Zwierciadło, 1568. 
+RejZwiercPodw jw., wiersz J. Podwysockiego. 
+RejZwiercTrzec jw., wiersze A. Trzecieskiego. 
+RejZwierz 
+M. Rej, Zwierzyniec, 1562. 
+RejZwierz[Wirzb] jw., wiersz M. Wirzbięty. 
+ReszPrz 
+S. Reszka, Przestroga pastyrska, 1585. 
+ReszHoz 
+jw., Opisanie S. Hozjusza. 
+ReszList 
+jw., list anonimowego autora. 
+RybGęśli 
+J. Rybiński, Gęśli różnorymych księga I, 1593. 
+RybWit 
+J. Rybiński, Witanie, 1600. 
+SapEpit 
+J. Sapieha, Epithalamium na wesele ... Leona 
+Sapiehy, 1599. 
+SarnStat 
+S. Sarnicki, Statuta, 1594. 
+SarnUzn 
+S. Sarnicki, O uznaniu Pana Boga ... kazanie, 
+1564. 
+SeklKat 
+J. Seklucjan, Catechismus, 1547. 
+SeklPieś 
+J. Seklucjan, Pieśni chrześcijańskie, 1559. 
+SeklWyzn 
+J. Seklucjan, Wyznanie wiary, 1544. 
+SiebRozmyśl 
+A. Siebeneicherowa, Rozmyślania, 1594. 
+SienLek 
+M. Siennik, Lekarstwa doświadczone, 1564. 
+SienLekAndr 
+jw., dedykacja Ł. Andrysowica. 
+SkarJedn 
+P. Skarga, O jedności Kościoła bożego, 1577. 
+SkarKaz 
+P. Skarga, Kazania na niedziele i święta, 1595. 
+SkarKazSej 
+P. Skarga, Kazania sejmowe, 1597. 
+SkarŻyw 
+P. Skarga, Żywoty świętych, 1579. 
+SkarŻywBog 
+jw., tekst Bogurodzicy. 
+SkorWinsz 
+W. Skorawiec, Winszowanie p. Zofijej z Miel- 
+ca, 1598. 
+Strum 
+O. Strumieński, O sprawie ... i rybieniu sta- 
+wów, 1573. 
+StryjKron 
+M. Stryjkowski, Kronika polska, 1582. 
+StryjWjaz 
+M. Stryjkowski, Przesławnego wjazdu do Kra- 
+kowa ... Henryka Walezyjusza ... opisanie, 
+1574. 
+SzarzRyt 
+M. Sęp Szarzyński, Rytmy, 1601. 
+SzarzRytJSzarz jw., dedykacja J. Szarzyńskiego. 
+SzarzRytLeśn 
+jw., wiersz J. Leśniowskiego. 
+TarDuch 
+Tarcza duchowna, 1533. 
+UstPraw 
+J. Palczowski, Ustawy prawa polskiego, 1561. 
+VotSzl 
+Votum szlachcica polskiego, 1596. 
+WerGośc 
+J. Wereszczyński, Gościniec pewny niepomier- 
+nym moczygębom, 1585. 
+WerGoścPapr 
+jw., wiersz B. Paprockiego. 
+WerKaz 
+J. Wereszczyński, Kazanie przy przyjmowaniu 
+świątości małżeństwa, 1585. 
+WerKazPapr 
+jw., wiersz B. Paprockiego. 
+WierKróc 
+Wierszyki króciuchne, 1573. 
+WisznTr 
+T. Wiszniowski, Treny, 1585. 
+WitosłLut 
+M. Witosławski, Lutnia na wesele ... J. Chod- 
+kiewicza, 1594. 
+WróbŻołt 
+W. Wróbel, Żołtarz Dawidów, 1539. 
+WróbŻołtGlab 
+jw., przypis A. Glabera. 
+WujJud 
+J. Wujek, Iudicium, 1570. 
+WujJudConf 
+jw., Konfessyja abo wyznanie wiary powsze- 
+chnej kościołów krześcijańskich polskich. 
+WujNT 
+J. Wujek, Nowy Testament, 1593. 
+WyprKr 
+Wyprawa królewny, 1562. 
+WyprPl 
+Wyprawa plebańska, 1590. 
+WysKaz 
+S. Wysocki, Kazanie na pogrzebie ... Jana Sy- 
+meona Olelkowicza, 1593. 
+ZapKościer 
+Akta prawne miasta Kościerzyny, 1579–1597. 
+ZapMaz 
+Zapiski mazowieckie, 1503–1594. 
+ZapMaz I 
+Księga ciechanowska grodzka dissoluta, 1512. 
+ZapMaz II Ł 
+Księga miejska ławnicza płocka, 1500–1517. 
+ZapMaz II G Księga płocka grodzka, 1531–1594. 
+ZapMaz III T Pułtuskie testamenta, 1508–1519. 
+ZapMaz III G Księga pułtuska grodzka, 1573. 
+ZapMaz IV 
+Księga wieluńska grodzka, 1531. 
+ZapMaz V 
+Księga warszawska ziemska grodzka, 1504. 
+ZapMaz V S 
+Stara Warszawa, 1542. 
+ZapMaz VI 
+Księga wyszogrodzka ziemska omnium trans., 
+1501, 1521. 
+ZapMaz VII Z Księga zakroczymska ziemska, 1501–1567. 
+ZapMaz VII G Księga zakroczymska grodzka, 1537, 1539, 
+1544. 
+ZapWar 
+Zapiski i roty polskie, 1501–1558. 
+ZawJeft 
+J. Zawicki, Iephtes, 1587. 
+ZbylPrzyg 
+P. Zbylitowski, Przygana wymyślnym strojom 
+białogłowskim, 1600. 
+ActIudGn 
+Acta iudiciorum ecclesiasticorum diocesum 
+Gneznensis et Poznaniensis (1403–1530), wyd. 
+B. Ulanowski, „Monumenta Medii Aevi Histo- 
+rica” XVI/2, Kraków 1902. 
+ActRector 
+Acta rectoralia Almae Universitatis Studii Cra- 
+coviensis, wyd. W. Wisłocki, t. I, Kraków 
+1893–1897, wyd. S. Estreicher, t. II, Kraków 
+1909. 
+AgrWirzb 
+H. K. Agryppa, O ślachetności a zacności płci 
+niewieściej, [tłum. M. Wirzbięta], Kraków 
+1575. 
+AktaAl 
+Akta Aleksandra króla polskiego (1501–1506), 
+wyd. F. Papée, Kraków 1927. 
+AktaRadzPozn 
+Akta radzieckie poznańskie, t. III (1502–1506), 
+wyd. K. Kaczmarczyk, Poznań 1948. 
+AktaSejmikPozn Akta sejmikowe województw poznańskiego i 
+kaliskiego, t. I, cz. I, wyd. W. Dworzaczek, Po- 
+znań 1957. 
+AktaSynod 
+Akta synodów różnowierczych w Polsce, op- 
+rac. M. Sipayłło, t. I (1550–1559), t. II (1560– 
+–1570), t. III (1571–1633), t. IV (1569–1600) 
+Warszawa 1966, 1972, 1983, 1997. 
+Albertus 
+Albertus z wojny, Kraków 1596. 
+Apolog 
+Apologeticus, to jest Obrona konfederacjej 
+(1582), wyd. E. Bursche, Kraków 1932. 
+ArgWykład 
+J. Argiglobyn, Wykład nabożny piosnki „Salve 
+Regina”, wyd. W. R. Rzepka i W. Wydra, 
+„Slavia Occidentalis” 38–41, 1981–1984. 
+ArtHom 
+P. Artomius, Homilia albo kazanie pogrzebne, 
+Toruń 1593. 
+ArtKaz 
+P. Artomius, Kazania pogrzebne nad zacnemi 
+ciały ... Jana Grabie z Ostroroga ... i ... Pani 
+Helszki z Olchowca Świerczównej, Toruń 
+1573. 
+ArtNom 
+P. Artomius, Nomenclator selectissimas re- 
+rum appellationes tribus linguis Latina, Ger- 
+manica, Polonica explicatas indicans, Toruń 
+1591. 
+ArtTanat 
+P. Artomius, Tanatomachia, to jest bój z śmier- 
+cią, Toruń 1600. 
+BarlBaz 
+M. Barletius, Historia o żywocie i zacnych 
+sprawach Jerzego Kastriota, którego pospolicie 
+Szkanderbegiem zową, [tłum. C. Bazylik], 
+Brześć 1569. 
+BazHist 
+(C. Bazylik), Historia o srogim prześladowaniu 
+Kościoła bożego, Brześć 1567. 
+BazNapis 
+C. Bazylik, Napis na grobie zacnego szlachcica 
+Pawła Secygniowskiego, Brześć Litewski 
+1570. 
+BiałPos 
+M. Białobrzeski, Postilla ortodoxa, cz. I–II, 
+Kraków 1581. 
+BielawMyśl 
+T. Bielawski, Myśliwiec, Kraków 1595. 
+BielKron 1551, M. Bielski, Kronika, Kraków 1551, 1554, 
+1554, 1597 
+1597. 
+BielNT 
+Nowy Testament polskim językiem wyłożony, 
+[tłum. M. Bielski], Kraków 1556. 
+BielPieś 
+Pieśń nowa o szcześliwej potrzebie pod Byczy- 
+ną, Kraków 1588. 
+BogowieFałsz 
+A. Kawecka-Gryczowa, Bogowie fałszywi. 
+Nieznany pamflet antykatolicki z XVI wieku, 
+„Odrodzenie i Reformacja w Polsce” XXV, 
+1981. 
+BolHist 
+H. Bolsek, Historia żywota, spraw i śmierci Ja- 
+na Kalwina, [tłum. K. Wilkowski (?)], Kraków 
+1583. 
+BrantKaz 
+J. Brant, Kazanie pogrzebne, Wilno 1596. 
+BrentTrepCat 
+J. Brentius, Catechismus, [tłum. E. Trepka], 
+Królewiec 1556. 
+BronApokr 
+M. Broniewski, Apokrisis abo odpowiedź na 
+książki o synodzie brzeskim, b.m. ok. 1597. 
+BudArt 
+Sz. Budny, O przedniejszych wiary chrystiań- 
+skiej artykulech, Łosk 1576. 
+BudDzieciokrzczeń Sz. Budny, O dzieciokrzczeństwie [1578], 
+wyd. L. Szczucki, „Odrodzenie i Reformacja w 
+Polsce” XXXI, 1980. 
+BudUrzęd 
+Sz. Budny, O urzędzie miecza używającym, 
+(Łosk) 1583. 
+BusLic 
+A. G. Busbequius, Drogi trzy ... do Solimana, 
+cesarza tureckiego, przy tym Okrzyk na wojnę 
+przeciw Turkowi, [tłum. J. Licinius], Wilno 
+1597. 
+BzowRóż 
+S. A. Bzowski, Różaniec Panny Maryjej, Kra- 
+ków 1600. 
+CampWilkow 
+E. Campianus, Dziesięć mocnych dowodów ... 
+w porządnej o wierze dysputacjej upaść muszą, 
+[tłum. K. Wilkowski], (Wilno) 1584. 
+CenRzemKsiąża Cennik ... dla rzemieślników miasta Książa, 
+przez P. Kmitę, wojewodę krakowskiego w r. 
+1538, wyd. B. Ulanowski, [w:] „Sprawozdania 
+Komisji Językowej Akademii Umiejętności”, 
+t. III, 1884. 
+CerGór 
+F. Furius Ceriola, Rada pańska, to jest jakich 
+osób pan każdy wybierać sobie ma do rady 
+swojej, [tłum. J. Górski], Kraków 1597. 
+CerGórJan 
+jw., przedmowa J. Januszowskiego. 
+Cervus 
+Słownik Jana Cervusa z Tucholi (teksty z lat 
+1531–1558), oprac. M. Karplukówna, Wroc- 
+ław 1973. 
+ChrząstPerła 
+A. Chrząstowski, Perła z Abakuka proroka 
+świętego wyjęta, Wilno 1583. 
+ChwalczKron 
+S. Chwalczewski, Kronika Stanisława Chwal- 
+czewskiego, t. I–II, Warszawa 1829, „Zbiór Pi- 
+sarzów Polskich”, cz. 3, t. 9-10. 
+ChybKieycher 
+A. Chybiński, Kieycheriana, „Kwartalnik Mu- 
+zyczny” II, Warszawa 1912. 
+CiceroBBud 
+M. T. Cicero, Księgi o starości, [tłum. B. Bu- 
+dny], Wilno 1595. 
+CiceroKosz 
+M. T. Cicero, O powinnościach wszech stanów 
+ludzi ... księgi troje, [tłum. S. Koszutski], Łosk 
+1575, Wilno 1583, 1593. 
+CiceroKoszGroch jw., wiersz S. Grochowskiego. 
+CiceroKoszKarc jw., dedykacja drukarza J. Karcana M. Naru- 
+szewiczowi. 
+CiceroKoszKoz jw., wiersz J. Kozakowicza. 
+Cochan I, II 
+Cochanoviana pod red. J. Pelca. 
+I. Źródła urzędowe do biografii Jana Kocha- 
+nowskiego, wyd. i oprac. M. Garbaczowa i 
+W. Urban, Wrocław 1985. 
+II. Materiały do dziejów twórczości Jana Ko- 
+chanowskiego z lat 1551–1625, wyd. i oprac. 
+M. Korolko, Wrocław 1986. 
+ConfKwiat 
+Confessio Augustanae fidei, to jest wyznanie 
+wiary krześcijańskiej, [tłum. M. Kwiatkowski], 
+(Królewiec – Lipsk) 1561. 
+ConfLutom 
+S. Lutomirski, Confessio, to jest wyznanie 
+wiary chrześcijańskiej, Królewiec 1556. 
+ConfRad 
+Confessio Augustana, to jest wyznanie wiary 
+niektórych książąt i miast niemieckich, [tłum. 
+J. Radomski], Królewiec 1561. 
+CorfusDocum 
+I. Corfus, Documente privitoare la istoria Ro- 
+mâniei culese din arhivele polone secolul al 
+XVI-lea, Bucureşti 1979. 
+SKOROWIDZ SKRÓTÓW ŹRÓDŁOWYCH II 
+(źródła spoza podstawowego kanonu – materiał bez statystyki, cytaty w klamrach) 
+XXXII t. Słownika... 
+
+ActIudGn 
+Acta iudiciorum ecclesiasticorum diocesum 
+Gneznensis et Poznaniensis (1403–1530), wyd. 
+B. Ulanowski, „Monumenta Medii Aevi Histo- 
+rica” XVI/2, Kraków 1902. 
+ActRector 
+Acta rectoralia Almae Universitatis Studii Cra- 
+coviensis, wyd. W. Wisłocki, t. I, Kraków 
+1893–1897, wyd. S. Estreicher, t. II, Kraków 
+1909. 
+AgrWirzb 
+H. K. Agryppa, O ślachetności a zacności płci 
+niewieściej, [tłum. M. Wirzbięta], Kraków 
+1575. 
+AktaAl 
+Akta Aleksandra króla polskiego (1501–1506), 
+wyd. F. Papée, Kraków 1927. 
+AktaRadzPozn 
+Akta radzieckie poznańskie, t. III (1502–1506), 
+wyd. K. Kaczmarczyk, Poznań 1948. 
+AktaSejmikPozn Akta sejmikowe województw poznańskiego i 
+kaliskiego, t. I, cz. I, wyd. W. Dworzaczek, Po- 
+znań 1957. 
+AktaSynod 
+Akta synodów różnowierczych w Polsce, op- 
+rac. M. Sipayłło, t. I (1550–1559), t. II (1560– 
+–1570), t. III (1571–1633), t. IV (1569–1600) 
+Warszawa 1966, 1972, 1983, 1997. 
+Albertus 
+Albertus z wojny, Kraków 1596. 
+Apolog 
+Apologeticus, to jest Obrona konfederacjej 
+(1582), wyd. E. Bursche, Kraków 1932. 
+ArgWykład 
+J. Argiglobyn, Wykład nabożny piosnki „Salve 
+Regina”, wyd. W. R. Rzepka i W. Wydra, 
+„Slavia Occidentalis” 38–41, 1981–1984. 
+ArtHom 
+P. Artomius, Homilia albo kazanie pogrzebne, 
+Toruń 1593. 
+ArtKaz 
+P. Artomius, Kazania pogrzebne nad zacnemi 
+ciały ... Jana Grabie z Ostroroga ... i ... Pani 
+Helszki z Olchowca Świerczównej, Toruń 
+1573. 
+ArtNom 
+P. Artomius, Nomenclator selectissimas re- 
+rum appellationes tribus linguis Latina, Ger- 
+manica, Polonica explicatas indicans, Toruń 
+1591. 
+ArtTanat 
+P. Artomius, Tanatomachia, to jest bój z śmier- 
+cią, Toruń 1600. 
+BarlBaz 
+M. Barletius, Historia o żywocie i zacnych 
+sprawach Jerzego Kastriota, którego pospolicie 
+Szkanderbegiem zową, [tłum. C. Bazylik], 
+Brześć 1569. 
+BazHist 
+(C. Bazylik), Historia o srogim prześladowaniu 
+Kościoła bożego, Brześć 1567. 
+BazNapis 
+C. Bazylik, Napis na grobie zacnego szlachcica 
+Pawła Secygniowskiego, Brześć Litewski 
+1570. 
+BiałPos 
+M. Białobrzeski, Postilla ortodoxa, cz. I–II, 
+Kraków 1581. 
+BielawMyśl 
+T. Bielawski, Myśliwiec, Kraków 1595. 
+BielKron 1551, M. Bielski, Kronika, Kraków 1551, 1554, 
+1554, 1597 
+1597. 
+BielNT 
+Nowy Testament polskim językiem wyłożony, 
+[tłum. M. Bielski], Kraków 1556. 
+BielPieś 
+Pieśń nowa o szcześliwej potrzebie pod Byczy- 
+ną, Kraków 1588. 
+BogowieFałsz 
+A. Kawecka-Gryczowa, Bogowie fałszywi. 
+Nieznany pamflet antykatolicki z XVI wieku, 
+„Odrodzenie i Reformacja w Polsce” XXV, 
+1981. 
+BolHist 
+H. Bolsek, Historia żywota, spraw i śmierci Ja- 
+na Kalwina, [tłum. K. Wilkowski (?)], Kraków 
+1583. 
+BrantKaz 
+J. Brant, Kazanie pogrzebne, Wilno 1596. 
+BrentTrepCat 
+J. Brentius, Catechismus, [tłum. E. Trepka], 
+Królewiec 1556. 
+BronApokr 
+M. Broniewski, Apokrisis abo odpowiedź na 
+książki o synodzie brzeskim, b.m. ok. 1597. 
+BudArt 
+Sz. Budny, O przedniejszych wiary chrystiań- 
+skiej artykulech, Łosk 1576. 
+BudDzieciokrzczeń Sz. Budny, O dzieciokrzczeństwie [1578], 
+wyd. L. Szczucki, „Odrodzenie i Reformacja w 
+Polsce” XXXI, 1980. 
+BudUrzęd 
+Sz. Budny, O urzędzie miecza używającym, 
+(Łosk) 1583. 
+BusLic 
+A. G. Busbequius, Drogi trzy ... do Solimana, 
+cesarza tureckiego, przy tym Okrzyk na wojnę 
+przeciw Turkowi, [tłum. J. Licinius], Wilno 
+1597. 
+BzowRóż 
+S. A. Bzowski, Różaniec Panny Maryjej, Kra- 
+ków 1600. 
+CampWilkow 
+E. Campianus, Dziesięć mocnych dowodów ... 
+w porządnej o wierze dysputacjej upaść muszą, 
+[tłum. K. Wilkowski], (Wilno) 1584. 
+CenRzemKsiąża Cennik ... dla rzemieślników miasta Książa, 
+przez P. Kmitę, wojewodę krakowskiego w r. 
+1538, wyd. B. Ulanowski, [w:] „Sprawozdania 
+Komisji Językowej Akademii Umiejętności”, 
+t. III, 1884. 
+CerGór 
+F. Furius Ceriola, Rada pańska, to jest jakich 
+osób pan każdy wybierać sobie ma do rady 
+swojej, [tłum. J. Górski], Kraków 1597. 
+CerGórJan 
+jw., przedmowa J. Januszowskiego. 
+Cervus 
+Słownik Jana Cervusa z Tucholi (teksty z lat 
+1531–1558), oprac. M. Karplukówna, Wroc- 
+ław 1973. 
+ChrząstPerła 
+A. Chrząstowski, Perła z Abakuka proroka 
+świętego wyjęta, Wilno 1583. 
+ChwalczKron 
+S. Chwalczewski, Kronika Stanisława Chwal- 
+czewskiego, t. I–II, Warszawa 1829, „Zbiór Pi- 
+sarzów Polskich”, cz. 3, t. 9-10. 
+ChybKieycher 
+A. Chybiński, Kieycheriana, „Kwartalnik Mu- 
+zyczny” II, Warszawa 1912. 
+CiceroBBud 
+M. T. Cicero, Księgi o starości, [tłum. B. Bu- 
+dny], Wilno 1595. 
+CiceroKosz 
+M. T. Cicero, O powinnościach wszech stanów 
+ludzi ... księgi troje, [tłum. S. Koszutski], Łosk 
+1575, Wilno 1583, 1593. 
+CiceroKoszGroch jw., wiersz S. Grochowskiego. 
+CiceroKoszKarc jw., dedykacja drukarza J. Karcana M. Naru- 
+szewiczowi. 
+CiceroKoszKoz jw., wiersz J. Kozakowicza. 
+Cochan I, II 
+Cochanoviana pod red. J. Pelca. 
+I. Źródła urzędowe do biografii Jana Kocha- 
+nowskiego, wyd. i oprac. M. Garbaczowa i 
+W. Urban, Wrocław 1985. 
+II. Materiały do dziejów twórczości Jana Ko- 
+chanowskiego z lat 1551–1625, wyd. i oprac. 
+M. Korolko, Wrocław 1986. 
+ConfKwiat 
+Confessio Augustanae fidei, to jest wyznanie 
+wiary krześcijańskiej, [tłum. M. Kwiatkowski], 
+(Królewiec – Lipsk) 1561. 
+ConfLutom 
+S. Lutomirski, Confessio, to jest wyznanie 
+wiary chrześcijańskiej, Królewiec 1556. 
+ConfRad 
+Confessio Augustana, to jest wyznanie wiary 
+niektórych książąt i miast niemieckich, [tłum. 
+J. Radomski], Królewiec 1561. 
+CorfusDocum 
+I. Corfus, Documente privitoare la istoria Ro- 
+mâniei culese din arhivele polone secolul al 
+XVI-lea, Bucureşti 1979. 
+SKOROWIDZ SKRÓTÓW ŹRÓDŁOWYCH II 
+(źródła spoza podstawowego kanonu – materiał bez statystyki, cytaty w klamrach) 
+XXXII t. Słownika... 
+CracArtific 
+Cracovia artificum 1501–1550, zebr. J. Ptaś- 
+nik, do druku przygot. M. Friedberg, Kraków 
+1936, 1937, 1948; – Cracovia artificum 1551– 
+–1560, z. 1: 1551–1552, wyd. S. Pańków i Z. 
+Wojas, Wrocław 1966. 
+CracImpres 
+Cracovia impressorum XV et XVI saeculorum, 
+wyd. J. Ptaśnik, „Monumenta Poloniae Typo- 
+graphica XV et XVI saeculorum”, t. I, Lwów 
+1922. 
+Cresc 
+P. Crescentius, Księgi o gospodarstwie, Kra- 
+ków 1549; 2. wyd.: O pomnożeniu i rozkrze- 
+wieniu wszelakich pożytków ksiąg dwojena- 
+ście, Kraków 1571. 
+CygMyśl 
+M. Cygański, Myślistwo ptasze, Kraków 1584. 
+CzahRzeczy 
+A. Czahrowski, Rzeczy rozmaite, Lwów 1599. 
+CzechNT 
+M. Czechowic, Nowy Testament, Kraków 
+1577, 1594. 
+CzechOdpis 
+M. Czechowic, Odpis Jakoba Żyda z Bełżyc 
+..., na który zaś odpowieda Jakobowi Żydowi 
+tenże Marcin Czechowic, (Kraków) 1581. 
+CzechRespons 
+M. Czechowic, Respons na skrypt Stanisława 
+Farnowskiego, (Kraków 1581). 
+CzechRozsądek M. Czechowic, Rozsądek na wykład katechiz- 
+mu, (Kraków) 1581. 
+DesidWilkow 
+Desiderosus abo ścieżka do miłości bożej, 
+[tłum. K. Wilkowski], Kraków 1589, 1599. 
+DialSzlachLit 
+Dialog szlachcica litewskiego, Wilno 1594. 
+DiarPeregr 
+Anonima Diariusz peregrynacji włoskiej, hi- 
+szpańskiej, portugalskiej (1595), wyd. J. Czu- 
+bek, Kraków 1925. 
+DiarPos 
+Diariusz poselstwa polskiego do Francji po 
+Henryka Walezego w 1573 roku, oprac. A. 
+Przyboś i R. Żelewski, Wrocław 1963. 
+Diar 1566 
+Diariusz sejmu lubelskiego 1566 r., oprac. I. 
+Kaniewska, Wrocław 1980. 
+Dict 1566 
+Dictionarius seu nomenclator quatuor lingua- 
+rum ... Wokabularz nowy czterzech języków, 
+Kraków 1566. 
+DługoszMWilk 
+J. Długosz, Historia o św. Stanisławie, [tłum. 
+Mikołaj z Wilkowiecka], Kraków 1585. 
+DokumPłock 
+Zbiór dokumentów i listów miasta Płocka, t. II 
+1495–1586, wyd. S. M. Szacherska, Warszawa 
+1987. 
+DramStp 
+Dramaty staropolskie, oprac. J. Lewański, t. I, 
+II, IV, Warszawa 1959, 1961. 
+DziałDiar 
+Ł. Działyński, Diariusz wyprawy wojennej 
+[1580, w:] Antologia pamiętników polskich 
+XVI w., pod red. R. Pollaka, Wrocław 1966. 
+DzikPam 
+J. Dziki, Wieczna pamiątka a prawie osobliwy 
+dar boży, Kraków 1561. 
+Ekonom 
+Ekonomia albo gospodarstwo, Królewiec 
+1546. 
+Ekthesis 
+Ekthesis abo Krótkie zebranie spraw, które się 
+działy na ... synodzie w Brześciu Litewskim, 
+Kraków 1597. 
+EmporEkscep 
+W. Emporyn, Ekscepcja przeciw jadowity 
+Apelacjej Erasmusa Glicznera, Poznań 1600. 
+EpistSam 
+Epistoła albo list rabbi Samuela, Kraków 1538, 
+1539. 
+ErazmJęzyk 
+Erazm z Rotterdamu, Księgi, które zową Ję- 
+zyk, Kraków 1542. 
+ErazmNow 
+Erazm z Rotterdamu, Rycerstwo chrześcijań- 
+skie a żywot duchowny, [tłum. W. Nowomiej- 
+ski], Królewiec 1558. 
+ErazmSpicz 
+Erazm z Rotterdamu, Modlitwa Pańska, [tłum. 
+H. Spiczyński], Kraków 1533. 
+EutropGlicz 
+Euthropius Flavius, Kronika, [tłum. E. Gli- 
+czner], Grodzisk 1581. 
+FalcSpr 
+T. Falconius, Sprawy i słowa Jezusa Chrystusa, 
+Brześć 1566. 
+FarnZnaj 
+S. Farnowski, O znajomości i wyznaniu Boga 
+zawżdy jednego, (Lusławice) 1573. 
+FlawHist 
+Flawiusz Józef, Historia Józefa, starego dziejo- 
+pisa żydowskiego, [tłum. Lenart z Urzędowa], 
+Kraków 1555. 
+FlinsCunDzień Flinsbach Cunmannus, Dzień sądny a skończe- 
+nie tego świata, kiedy ma być, [tłum. W. No- 
+womiejski], Królewiec b.r. 
+GębMemor 
+J. Gębczyński, Memoriał rachunkowy (1594– 
+–1597), [w:] W. Czapliński, J. Długosz, Po- 
+dróż młodego magnata do szkół, Warszawa 
+1966. 
+GilKat 
+P. Gilowski, Wykład katechizmu, Kraków 
+1579. 
+GilKaz 
+P. Gilowski, Kazania trzy na święto Narodze- 
+nia Pańskiego miane w Warszawie 1579, [w:] 
+GrzegŻarnPos 1582. 
+GilPos 
+P. Gilowski, Postylle krześcijańskiej część 
+czwarta, (Kraków 1583). 
+GliczApel 
+E. Gliczner, Apelacja, Królewiec 1598. 
+Glosy I 
+Glosy i drobne teksty polskie do 1550 roku z 
+inkunabułów Kalisza ..., Sieradza i Warty, 
+zebr. J. Wojtkowski, objaś. W. Kuraszkiewicz, 
+Poznań 1965. 
+Glosy II 
+Glosy i drobne teksty polskie do 1550 roku z 
+inkunabułów Biblioteki Kapitulnej i Semina- 
+ryjnej w Gnieźnie, zebr. J. Wojtkowski, objaś. i 
+indeks Z. Krążyńska, pod red. W. Kuraszkie- 
+wicza, Warszawa – Poznań 1977. 
+Glosy III 
+Glosy i drobne teksty polskie do 1550 roku z 
+inkunabułów Archiwum Archidiecezjalnego w 
+Poznaniu, zebrał J. Wojtkowski, objaś. i indeks 
+Z. Krażyńska, Poznań 1992. 
+GlosyKórn 
+M. Muszyński, Glosy i zapiski polskie w sta- 
+rych drukach Biblioteki Kórnickiej, [w:] „Pa- 
+miętnik Biblioteki Kórnickiej”, z. 8, 1963, z. 
+9–10, 1968. 
+GorPeregr 
+J. Goryński, Peregrynacja do Ziemi Świętej 
+[ok. 1560, w:] Antologia pamiętników pol- 
+skich XVI wieku, pod red. R. Pollaka, Wroc- 
+ław 1966. 
+GrabZdanie 
+P. Grabowski, Zdanie syna koronnego, (Wilno) 
+1595. 
+GrochHymny 
+S. Grochowski, Hymny, prozy i cantica ko- 
+ścielne, Kraków 1599. 
+GrochPlankty 
+S. Grochowski, Pogrzebowe plankty, b.m. 
+1599. 
+GrochTrenopis 
+S. Grochowski, Trenopis na ... pogrzeb ... An- 
+ny ... królowej Polski, b.m. 1593. 
+GrodzCzyś I, II S. Grodzicki, O czyśćcu pierwsze kazanie, 
+Wilno 1592; O czyśćcu kazanie wtóre, Wilno 
+1593. 
+GrodzJednOs 
+S. Grodzicki, O jednej osobie w używaniu Sa- 
+kramentu Ciała Pańskiego ... kazań sześć, Wil- 
+no 1589. 
+GrodzPopr 
+S. Grodzicki, O poprawie kalendarza kazanie 
+dwoje, Wilno 1587, 1589. 
+GrodzPraw 
+S. Grodzicki, Prawidło wiary heretyckiej, Wil- 
+no 1592. 
+GroicArt 
+B. Groicki, Artykuły prawa majdeburskiego, 
+Kraków 1559. 
+GroicPostępek 
+B. Groicki, Ten postępek wybran jest z praw 
+cesarskich, Kraków 1559. 
+GroicRejestr 
+B. Groicki, Rejestr do Porządku i do Artyku- 
+łów prawa majdeburskiego, Kraków 1567. 
+GroicTyt 
+B. Groicki, Tytuły prawa majdeburskiego, Kra- 
+ków 1567. 
+GroicUst 
+B. Groicki, Ustawa płacej u sądów w prawie 
+majdeburskim, Kraków 1558. 
+GrzegRozdział 
+Grzegorz Paweł z Brzezin, Rozdział Starego 
+Testamentu od Nowego, (Kraków) 1568. 
+GrzegWyzn 
+[Grzegorz Paweł z Brzezin], O wyznaniu wia- 
+ry księdza Sarnickiego, (Brześć) 1564. 
+GrzegŻarnObr 
+Grzegorz z Żarnowca, Obrona Postylle, (Kra- 
+ków ok. 1584). 
+GrzegŻarnObrProc Grzegorz z Żarnowca, Obrona przeciw Proce- 
+sowi konfederacjej, (Kraków 1596). 
+GrzegŻarnPos 
+Grzegorz z Żarnowca, Postylle krześcijańskiej 
+część trzecia, Kraków 1582; – Postylla, Kra- 
+ków 1597. 
+
+CracArtific 
+Cracovia artificum 1501–1550, zebr. J. Ptaś- 
+nik, do druku przygot. M. Friedberg, Kraków 
+1936, 1937, 1948; – Cracovia artificum 1551– 
+–1560, z. 1: 1551–1552, wyd. S. Pańków i Z. 
+Wojas, Wrocław 1966. 
+CracImpres 
+Cracovia impressorum XV et XVI saeculorum, 
+wyd. J. Ptaśnik, „Monumenta Poloniae Typo- 
+graphica XV et XVI saeculorum”, t. I, Lwów 
+1922. 
+Cresc 
+P. Crescentius, Księgi o gospodarstwie, Kra- 
+ków 1549; 2. wyd.: O pomnożeniu i rozkrze- 
+wieniu wszelakich pożytków ksiąg dwojena- 
+ście, Kraków 1571. 
+CygMyśl 
+M. Cygański, Myślistwo ptasze, Kraków 1584. 
+CzahRzeczy 
+A. Czahrowski, Rzeczy rozmaite, Lwów 1599. 
+CzechNT 
+M. Czechowic, Nowy Testament, Kraków 
+1577, 1594. 
+CzechOdpis 
+M. Czechowic, Odpis Jakoba Żyda z Bełżyc 
+..., na który zaś odpowieda Jakobowi Żydowi 
+tenże Marcin Czechowic, (Kraków) 1581. 
+CzechRespons 
+M. Czechowic, Respons na skrypt Stanisława 
+Farnowskiego, (Kraków 1581). 
+CzechRozsądek M. Czechowic, Rozsądek na wykład katechiz- 
+mu, (Kraków) 1581. 
+DesidWilkow 
+Desiderosus abo ścieżka do miłości bożej, 
+[tłum. K. Wilkowski], Kraków 1589, 1599. 
+DialSzlachLit 
+Dialog szlachcica litewskiego, Wilno 1594. 
+DiarPeregr 
+Anonima Diariusz peregrynacji włoskiej, hi- 
+szpańskiej, portugalskiej (1595), wyd. J. Czu- 
+bek, Kraków 1925. 
+DiarPos 
+Diariusz poselstwa polskiego do Francji po 
+Henryka Walezego w 1573 roku, oprac. A. 
+Przyboś i R. Żelewski, Wrocław 1963. 
+Diar 1566 
+Diariusz sejmu lubelskiego 1566 r., oprac. I. 
+Kaniewska, Wrocław 1980. 
+Dict 1566 
+Dictionarius seu nomenclator quatuor lingua- 
+rum ... Wokabularz nowy czterzech języków, 
+Kraków 1566. 
+DługoszMWilk 
+J. Długosz, Historia o św. Stanisławie, [tłum. 
+Mikołaj z Wilkowiecka], Kraków 1585. 
+DokumPłock 
+Zbiór dokumentów i listów miasta Płocka, t. II 
+1495–1586, wyd. S. M. Szacherska, Warszawa 
+1987. 
+DramStp 
+Dramaty staropolskie, oprac. J. Lewański, t. I, 
+II, IV, Warszawa 1959, 1961. 
+DziałDiar 
+Ł. Działyński, Diariusz wyprawy wojennej 
+[1580, w:] Antologia pamiętników polskich 
+XVI w., pod red. R. Pollaka, Wrocław 1966. 
+DzikPam 
+J. Dziki, Wieczna pamiątka a prawie osobliwy 
+dar boży, Kraków 1561. 
+Ekonom 
+Ekonomia albo gospodarstwo, Królewiec 
+1546. 
+Ekthesis 
+Ekthesis abo Krótkie zebranie spraw, które się 
+działy na ... synodzie w Brześciu Litewskim, 
+Kraków 1597. 
+EmporEkscep 
+W. Emporyn, Ekscepcja przeciw jadowity 
+Apelacjej Erasmusa Glicznera, Poznań 1600. 
+EpistSam 
+Epistoła albo list rabbi Samuela, Kraków 1538, 
+1539. 
+ErazmJęzyk 
+Erazm z Rotterdamu, Księgi, które zową Ję- 
+zyk, Kraków 1542. 
+ErazmNow 
+Erazm z Rotterdamu, Rycerstwo chrześcijań- 
+skie a żywot duchowny, [tłum. W. Nowomiej- 
+ski], Królewiec 1558. 
+ErazmSpicz 
+Erazm z Rotterdamu, Modlitwa Pańska, [tłum. 
+H. Spiczyński], Kraków 1533. 
+EutropGlicz 
+Euthropius Flavius, Kronika, [tłum. E. Gli- 
+czner], Grodzisk 1581. 
+FalcSpr 
+T. Falconius, Sprawy i słowa Jezusa Chrystusa, 
+Brześć 1566. 
+FarnZnaj 
+S. Farnowski, O znajomości i wyznaniu Boga 
+zawżdy jednego, (Lusławice) 1573. 
+FlawHist 
+Flawiusz Józef, Historia Józefa, starego dziejo- 
+pisa żydowskiego, [tłum. Lenart z Urzędowa], 
+Kraków 1555. 
+FlinsCunDzień 
+Flinsbach Cunmannus, Dzień sądny a skończe- 
+nie tego świata, kiedy ma być, [tłum. W. No- 
+womiejski], Królewiec b.r. 
+GębMemor 
+J. Gębczyński, Memoriał rachunkowy (1594– 
+–1597), [w:] W. Czapliński, J. Długosz, Po- 
+dróż młodego magnata do szkół, Warszawa 
+1966. 
+GilKat 
+P. Gilowski, Wykład katechizmu, Kraków 
+1579. 
+GilKaz 
+P. Gilowski, Kazania trzy na święto Narodze- 
+nia Pańskiego miane w Warszawie 1579, [w:] 
+GrzegŻarnPos 1582. 
+GilPos 
+P. Gilowski, Postylle krześcijańskiej część 
+czwarta, (Kraków 1583). 
+GliczApel 
+E. Gliczner, Apelacja, Królewiec 1598. 
+Glosy I 
+Glosy i drobne teksty polskie do 1550 roku z 
+inkunabułów Kalisza ..., Sieradza i Warty, 
+zebr. J. Wojtkowski, objaś. W. Kuraszkiewicz, 
+Poznań 1965. 
+Glosy II 
+Glosy i drobne teksty polskie do 1550 roku z 
+inkunabułów Biblioteki Kapitulnej i Semina- 
+ryjnej w Gnieźnie, zebr. J. Wojtkowski, objaś. i 
+indeks Z. Krążyńska, pod red. W. Kuraszkie- 
+wicza, Warszawa – Poznań 1977. 
+Glosy III 
+Glosy i drobne teksty polskie do 1550 roku z 
+inkunabułów Archiwum Archidiecezjalnego w 
+Poznaniu, zebrał J. Wojtkowski, objaś. i indeks 
+Z. Krażyńska, Poznań 1992. 
+GlosyKórn 
+M. Muszyński, Glosy i zapiski polskie w sta- 
+rych drukach Biblioteki Kórnickiej, [w:] „Pa- 
+miętnik Biblioteki Kórnickiej”, z. 8, 1963, z. 
+9–10, 1968. 
+GorPeregr 
+J. Goryński, Peregrynacja do Ziemi Świętej 
+[ok. 1560, w:] Antologia pamiętników pol- 
+skich XVI wieku, pod red. R. Pollaka, Wroc- 
+ław 1966. 
+GrabZdanie 
+P. Grabowski, Zdanie syna koronnego, (Wilno) 
+1595. 
+GrochHymny 
+S. Grochowski, Hymny, prozy i cantica ko- 
+ścielne, Kraków 1599. 
+GrochPlankty 
+S. Grochowski, Pogrzebowe plankty, b.m. 
+1599. 
+GrochTrenopis 
+S. Grochowski, Trenopis na ... pogrzeb ... An- 
+ny ... królowej Polski, b.m. 1593. 
+GrodzCzyś I, II S. Grodzicki, O czyśćcu pierwsze kazanie, 
+Wilno 1592; O czyśćcu kazanie wtóre, Wilno 
+1593. 
+GrodzJednOs 
+S. Grodzicki, O jednej osobie w używaniu Sa- 
+kramentu Ciała Pańskiego ... kazań sześć, Wil- 
+no 1589. 
+GrodzPopr 
+S. Grodzicki, O poprawie kalendarza kazanie 
+dwoje, Wilno 1587, 1589. 
+GrodzPraw 
+S. Grodzicki, Prawidło wiary heretyckiej, Wil- 
+no 1592. 
+GroicArt 
+B. Groicki, Artykuły prawa majdeburskiego, 
+Kraków 1559. 
+GroicPostępek 
+B. Groicki, Ten postępek wybran jest z praw 
+cesarskich, Kraków 1559. 
+GroicRejestr 
+B. Groicki, Rejestr do Porządku i do Artyku- 
+łów prawa majdeburskiego, Kraków 1567. 
+GroicTyt 
+B. Groicki, Tytuły prawa majdeburskiego, Kra- 
+ków 1567. 
+GroicUst 
+B. Groicki, Ustawa płacej u sądów w prawie 
+majdeburskim, Kraków 1558. 
+GrzegRozdział 
+Grzegorz Paweł z Brzezin, Rozdział Starego 
+Testamentu od Nowego, (Kraków) 1568. 
+GrzegWyzn 
+[Grzegorz Paweł z Brzezin], O wyznaniu wia- 
+ry księdza Sarnickiego, (Brześć) 1564. 
+GrzegŻarnObr 
+Grzegorz z Żarnowca, Obrona Postylle, (Kra- 
+ków ok. 1584). 
+GrzegŻarnObrProc Grzegorz z Żarnowca, Obrona przeciw Proce- 
+sowi konfederacjej, (Kraków 1596). 
+GrzegŻarnPos 
+Grzegorz z Żarnowca, Postylle krześcijańskiej 
+część trzecia, Kraków 1582; – Postylla, Kra- 
+ków 1597. 
+HandelŻyd 
+Handel żydowski w Krakowie w końcu XVI i 
+w XVII wieku. Wypisy z krakowskich reje- 
+strów celnych z lat 1593–1683, oprac. J. M. 
+Małecki, współudział E. Szlufik, Kraków 
+1995. 
+HerbLek 
+B. Herbest, Zdrowe przeciw szkodliwie zanie- 
+dbanym powinnościam chrześcijańskim lekar- 
+stwo, Kraków 1568. 
+HerbNauka 
+B. Herbest, Nauka prawego chrześcijanina, 
+Kraków 1566. 
+HerbOdpow 
+B. Herbest, Chrześcijańska porządna odpo- 
+wiedź, Kraków 1567. 
+HerbWywody 
+B. Herbest, Wiary Kościoła rzymskiego wy- 
+wody, Kraków 1586. 
+HerburtArt 
+J. Herburt, Głównych o wierze artykułów ... 
+księgi I, Kraków 1569. 
+HerburtStat 
+J. Herburt, Statuta i przywileje koronne, Kra- 
+ków 1570. 
+HeydenColl 
+S. Heyden, Puerillium colloquiorum formulae, 
+Kraków 1527. 
+HierWielEccle 
+Ecclesiastes Księgi Salomonowe, które pol- 
+skim wykładem kaznodziejskie mianujemy, 
+[tłum. Hieronim z Wielunia], Kraków 1522. 
+HistAl 1510 
+Historia Aleksandra w tłumaczeniu Leonarda 
+Bonieckiego z r. 1510, wyd. M. Z. Przegonia 
+Kryński, „Prace Filologiczne” IX, 1920. 
+HistBarn 
+Historia o Barnabaszu z r. 1571, oprac. J. 
+Krzyżanowski, Warszawa 1933. 
+HistEurial 
+Historia piękna o miłości Euriala z Lukrecją, 
+[ok. 1570, tłum. Ch. Golian], wyd. S. Adal- 
+berg, Kraków 1896. 
+HistFort 
+Historia o Fortunacie, Kraków (ok. 1570). 
+HistLukr 
+Historia o Lukrecyjej, oprac. J. Krzyżanowski, 
+Warszawa 1936. 
+HistMęki 
+Historia męki Jezu Chrysta, [w:] Postylla pol- 
+ska, Królewiec 1572, 1581. 
+HistOtton 
+Historia o cesarzu Ottonie, Kraków 1569. 
+HistPonc 
+Historia piękna z przykłady nadobnemi o Pon- 
+cjanie, [tłum. Jan z Koszyczek], Kraków 1566. 
+HistTroj 
+Historia ... o zburzeniu ... miasta i państwa tro- 
+jańskiego, Kraków 1597. 
+HozKsięgi 
+S. Hozjusz, Księgi o jasnym a szczyrym Sło- 
+wie Bożym, Kraków 1562. 
+InstrGórn 
+Instrukcje górnicze dla żup krakowskich z 
+XVI–XVIII wieku, oprac. A. Keckowa, Wroc- 
+ław 1963. 
+Interreg 
+Traktat de interregno z 1587 r., [w:] Sześć bro- 
+szur politycznych z XVI i początku XVII stu- 
+lecia, wyd. B. Ulanowski, Kraków 1921. 
+InwBibl 
+Lwowskie inwentarze biblioteczne w epoce 
+Renesansu, oprac. J. Skoczek, Lwów 1939. 
+InwBiskPozn 
+Inwentarz dóbr i dochodów biskupów poznań- 
+skich z roku 1564, wyd. E. Długopolski, Kra- 
+ków 1938. 
+InwBiskWłocł 
+Inwentarz dóbr stołowych biskupstwa włoc- 
+ławskiego [1582, 1598], wyd. L. Żytkowicz, 
+Toruń 1950, 1953. 
+InwKatWaw 
+Inwentarz Katedry Wawelskiej z r. 1563, op- 
+rac. A. Bochnak, Kraków 1979. 
+InwKrak 
+A. Chybiński, Z inwentarzy krakowskich 
+1550– –1600, „Przegląd Muzyczny” IV, 1911. 
+InwKsiągCalis 
+M. Stankowa, S. Tworek, Inwentarz ksiąg i 
+rzeczy Wojciecha Calissiusa z 1579 roku, „Od- 
+rodzenie i Reformacja w Polsce” XIII, 1968. 
+InwMieszcz 
+Inwentarze mieszczańskie z lat 1528–1635 z 
+ksiąg miejskich Poznania, wyd. S. Nawrocki i 
+J. Wisłocki, Poznań 1961. 
+InwSzlachKal 
+Inwentarze dóbr szlacheckich powiatu kalis- 
+kiego, t. I, wyd. W. Rusiński, Wrocław 1955. 
+InwZiemKrak 
+Inwentarze dóbr ziemskich województwa kra- 
+kowskiego 1576–1700, wyd. A. Kamiński, A. 
+Kiełbicka, S. Pańków, Warszawa 1956. 
+InwŻup 
+J. Turska, Inwentarze żup samborskich z 1558 
+roku, [w:] „Studia z Dziejów Górnictwa i Hut- 
+nictwa”, t. I, 1957. 
+IsocrGlicz 
+E. Gliczner, Oracja Isokratesa o sprawowaniu 
+państwa na polskie przełożona, [w:] Lorich- 
+Kosz. 
+JanKoszŻyw 
+Jan z Koszyczek, Żywot świętej Anny, Kra- 
+ków ok. 1532. 
+JanStat 
+J. Januszowski, Statuta, prawa i konstytucje 
+koronne łacińskie i polskie, Kraków 1600. 
+JanSyjon 
+J. Januszowski, Syjon pochylony, Kraków 
+1587. 
+JanWróż 
+J. Januszowski, Wróżki, Kraków 1589. 
+JęzykGórnŚląsk A. Kowalska, Dzieje języka polskiego na Gór- 
+nym Śląsku ... (1526–1742), Wrocław 1986. 
+JęzykTarnGór 
+A. Kowalska, Język polski w szesnastowie- 
+cznych księgach miejskich Tarnowskich Gór, 
+Wrocław 1970. 
+JungaRozwiąz 
+A. Junga, Rozwiązanie piącidziesięć i dwu 
+kwestii ministrów nowoewangelickich jezui- 
+tom zadanych, Poznań 1593, 1599. 
+KarnEksorb 
+S. Karnkowski, Eksorbitancje, Kraków 1596. 
+KarnNap 1569 
+S. Karnkowski, Napominania potrzebne i zba- 
+wienne, Kraków 1569. 
+Kaz 
+Kazania niedzielne i świąteczne nieznanego 
+autora. Spisane około roku 1555, wyd. B. 
+Erzepki, Poznań 1899. 
+KlonPożar 
+S. F. Klonowic, Pożar, (Kraków) 1597. 
+KmitaŁów 
+J. A. Kmita, Łów Dianny, Kraków 1588. 
+KmitaPocząt 
+J. A. Kmita, Początki królów rzymskich, Kra- 
+ków b.r. 
+KmitaTreny 
+J. A. Kmita, Treny na śmierć Jej Mości Paniej 
+Katarzyny Branickiej [8 X 1588], b.m. i r. 
+KmitaŻyw 
+J. A. Kmita, Żywoty królów polskich, Kraków 
+1591. 
+KobierHist 
+M. Kobiernicki, Historia o czterech młodzień- 
+cach, Kraków 1589. 
+KochPieśniTrzy J. Kochanowski, Pieśni trzy, Warszawa 1580, 
+[w:] Jan Kochanowski, Wydanie sejmowe, t. 
+IV. Pieśni. 
+KołakWiek 
+S. Kołakowski, Wiek ludzki, (Kraków) 1584. 
+KomentHozeasz W. Teodor, Komentarz albo wykład na proro- 
+ctwo Hozeasza, (Kraków) 1559. 
+KonfGlicz 
+Konfesja wiary, którą augustańską albo au- 
+spurską zową, [tłum. E. Gliczner], Gdańsk 
+1594. 
+KonKaz 
+J. Konarski, Kazania ... przy pogrzebie, Poznań 
+1590. 
+Konst 
+Konstytucje, statuta i przywileje na walnych 
+sejmiech koronnych od roku pańskiego 1550 
+aż do roku 1581 uchwalone, Kraków 1581; 
+– aż do roku 1596 uchwalone, Kraków 1596; 
+– aż do roku 1598 uchwalone, Kraków 1598. 
+KorczRozm 
+W. Korczewski, Rozmowy polskie łacińskim 
+językiem przeplatane, Kraków 1553. 
+Krofej 
+Sz. Krofej, Duchowne piesnie M. Lutra ... w 
+sławięski język wyłożone, Gdańsk 1586 
+– wyd. fototypiczne R. Olescha 1958. 
+KromHist 
+M. Kromer, Historia prawdziwa o przygodzie 
+żałosnej książęcia finlandzkiego Jana i króle- 
+wny polskiej Katarzyny [1570], oprac. J. Mał- 
+łek, Olsztyn 1974. 
+KromPol 
+M. Kromer, Polonia, Kolonia 1578. 
+KroniczTasz 
+W. Urban, Kroniczka rodziny Taszyckich z 
+końca XVI wieku, „Odrodzenie i Reformacja 
+w Polsce” XIII, 1968. 
+KronMieszcz 
+Kronika mieszczanina krakowskiego z lat 
+1575–1595, wyd. H. Barycz, Kraków 1930. 
+KronWKLit 
+Wielkiego Księstwa Litewskiego i Żmudzkie- 
+go kronika, podług rękopisu z r. 1550 wyd. S. 
+Ptaszycki, Warszawa 1932. 
+KrowNap 
+M. Krowicki, Chrześcijańskie a żałobliwe na- 
+pominanie, Magdeburg 1554, oprac. B. Otwi- 
+nowska i J. Tazbir, Warszawa 1969. 
+KrowObraz 
+M. Krowicki, Obraz a kontrefet własny Anty- 
+krystów, (Pińczów) 1561. 
+KrzyżKaz 
+H. Krzyżanowski, Kazania, w których zamyka 
+się wykład kreda, Kraków 1566. 
+
+HandelŻyd 
+Handel żydowski w Krakowie w końcu XVI i 
+w XVII wieku. Wypisy z krakowskich reje- 
+strów celnych z lat 1593–1683, oprac. J. M. 
+Małecki, współudział E. Szlufik, Kraków 
+1995. 
+HerbLek 
+B. Herbest, Zdrowe przeciw szkodliwie zanie- 
+dbanym powinnościam chrześcijańskim lekar- 
+stwo, Kraków 1568. 
+HerbNauka 
+B. Herbest, Nauka prawego chrześcijanina, 
+Kraków 1566. 
+HerbOdpow 
+B. Herbest, Chrześcijańska porządna odpo- 
+wiedź, Kraków 1567. 
+HerbWywody 
+B. Herbest, Wiary Kościoła rzymskiego wy- 
+wody, Kraków 1586. 
+HerburtArt 
+J. Herburt, Głównych o wierze artykułów ... 
+księgi I, Kraków 1569. 
+HerburtStat 
+J. Herburt, Statuta i przywileje koronne, Kra- 
+ków 1570. 
+HeydenColl 
+S. Heyden, Puerillium colloquiorum formulae, 
+Kraków 1527. 
+HierWielEccle 
+Ecclesiastes Księgi Salomonowe, które pol- 
+skim wykładem kaznodziejskie mianujemy, 
+[tłum. Hieronim z Wielunia], Kraków 1522. 
+HistAl 1510 
+Historia Aleksandra w tłumaczeniu Leonarda 
+Bonieckiego z r. 1510, wyd. M. Z. Przegonia 
+Kryński, „Prace Filologiczne” IX, 1920. 
+HistBarn 
+Historia o Barnabaszu z r. 1571, oprac. J. 
+Krzyżanowski, Warszawa 1933. 
+HistEurial 
+Historia piękna o miłości Euriala z Lukrecją, 
+[ok. 1570, tłum. Ch. Golian], wyd. S. Adal- 
+berg, Kraków 1896. 
+HistFort 
+Historia o Fortunacie, Kraków (ok. 1570). 
+HistLukr 
+Historia o Lukrecyjej, oprac. J. Krzyżanowski, 
+Warszawa 1936. 
+HistMęki 
+Historia męki Jezu Chrysta, [w:] Postylla pol- 
+ska, Królewiec 1572, 1581. 
+HistOtton 
+Historia o cesarzu Ottonie, Kraków 1569. 
+HistPonc 
+Historia piękna z przykłady nadobnemi o Pon- 
+cjanie, [tłum. Jan z Koszyczek], Kraków 1566. 
+HistTroj 
+Historia ... o zburzeniu ... miasta i państwa tro- 
+jańskiego, Kraków 1597. 
+HozKsięgi 
+S. Hozjusz, Księgi o jasnym a szczyrym Sło- 
+wie Bożym, Kraków 1562. 
+InstrGórn 
+Instrukcje górnicze dla żup krakowskich z 
+XVI–XVIII wieku, oprac. A. Keckowa, Wroc- 
+ław 1963. 
+Interreg 
+Traktat de interregno z 1587 r., [w:] Sześć bro- 
+szur politycznych z XVI i początku XVII stu- 
+lecia, wyd. B. Ulanowski, Kraków 1921. 
+InwBibl 
+Lwowskie inwentarze biblioteczne w epoce 
+Renesansu, oprac. J. Skoczek, Lwów 1939. 
+InwBiskPozn 
+Inwentarz dóbr i dochodów biskupów poznań- 
+skich z roku 1564, wyd. E. Długopolski, Kra- 
+ków 1938. 
+InwBiskWłocł 
+Inwentarz dóbr stołowych biskupstwa włoc- 
+ławskiego [1582, 1598], wyd. L. Żytkowicz, 
+Toruń 1950, 1953. 
+InwKatWaw 
+Inwentarz Katedry Wawelskiej z r. 1563, op- 
+rac. A. Bochnak, Kraków 1979. 
+InwKrak 
+A. Chybiński, Z inwentarzy krakowskich 
+1550– –1600, „Przegląd Muzyczny” IV, 1911. 
+InwKsiągCalis 
+M. Stankowa, S. Tworek, Inwentarz ksiąg i 
+rzeczy Wojciecha Calissiusa z 1579 roku, „Od- 
+rodzenie i Reformacja w Polsce” XIII, 1968. 
+InwMieszcz 
+Inwentarze mieszczańskie z lat 1528–1635 z 
+ksiąg miejskich Poznania, wyd. S. Nawrocki i 
+J. Wisłocki, Poznań 1961. 
+InwSzlachKal 
+Inwentarze dóbr szlacheckich powiatu kalis- 
+kiego, t. I, wyd. W. Rusiński, Wrocław 1955. 
+InwZiemKrak 
+Inwentarze dóbr ziemskich województwa kra- 
+kowskiego 1576–1700, wyd. A. Kamiński, A. 
+Kiełbicka, S. Pańków, Warszawa 1956. 
+InwŻup 
+J. Turska, Inwentarze żup samborskich z 1558 
+roku, [w:] „Studia z Dziejów Górnictwa i Hut- 
+nictwa”, t. I, 1957. 
+IsocrGlicz 
+E. Gliczner, Oracja Isokratesa o sprawowaniu 
+państwa na polskie przełożona, [w:] Lorich- 
+Kosz. 
+JanKoszŻyw 
+Jan z Koszyczek, Żywot świętej Anny, Kra- 
+ków ok. 1532. 
+JanStat 
+J. Januszowski, Statuta, prawa i konstytucje 
+koronne łacińskie i polskie, Kraków 1600. 
+JanSyjon 
+J. Januszowski, Syjon pochylony, Kraków 
+1587. 
+JanWróż 
+J. Januszowski, Wróżki, Kraków 1589. 
+JęzykGórnŚląsk A. Kowalska, Dzieje języka polskiego na Gór- 
+nym Śląsku ... (1526–1742), Wrocław 1986. 
+JęzykTarnGór 
+A. Kowalska, Język polski w szesnastowie- 
+cznych księgach miejskich Tarnowskich Gór, 
+Wrocław 1970. 
+JungaRozwiąz 
+A. Junga, Rozwiązanie piącidziesięć i dwu 
+kwestii ministrów nowoewangelickich jezui- 
+tom zadanych, Poznań 1593, 1599. 
+KarnEksorb 
+S. Karnkowski, Eksorbitancje, Kraków 1596. 
+KarnNap 1569 
+S. Karnkowski, Napominania potrzebne i zba- 
+wienne, Kraków 1569. 
+Kaz 
+Kazania niedzielne i świąteczne nieznanego 
+autora. Spisane około roku 1555, wyd. B. 
+Erzepki, Poznań 1899. 
+KlonPożar 
+S. F. Klonowic, Pożar, (Kraków) 1597. 
+KmitaŁów 
+J. A. Kmita, Łów Dianny, Kraków 1588. 
+KmitaPocząt 
+J. A. Kmita, Początki królów rzymskich, Kra- 
+ków b.r. 
+KmitaTreny 
+J. A. Kmita, Treny na śmierć Jej Mości Paniej 
+Katarzyny Branickiej [8 X 1588], b.m. i r. 
+KmitaŻyw 
+J. A. Kmita, Żywoty królów polskich, Kraków 
+1591. 
+KobierHist 
+M. Kobiernicki, Historia o czterech młodzień- 
+cach, Kraków 1589. 
+KochPieśniTrzy J. Kochanowski, Pieśni trzy, Warszawa 1580, 
+[w:] Jan Kochanowski, Wydanie sejmowe, t. 
+IV. Pieśni. 
+KołakWiek 
+S. Kołakowski, Wiek ludzki, (Kraków) 1584. 
+KomentHozeasz W. Teodor, Komentarz albo wykład na proro- 
+ctwo Hozeasza, (Kraków) 1559. 
+KonfGlicz 
+Konfesja wiary, którą augustańską albo au- 
+spurską zową, [tłum. E. Gliczner], Gdańsk 
+1594. 
+KonKaz 
+J. Konarski, Kazania ... przy pogrzebie, Poznań 
+1590. 
+Konst 
+Konstytucje, statuta i przywileje na walnych 
+sejmiech koronnych od roku pańskiego 1550 
+aż do roku 1581 uchwalone, Kraków 1581; 
+– aż do roku 1596 uchwalone, Kraków 1596; 
+– aż do roku 1598 uchwalone, Kraków 1598. 
+KorczRozm 
+W. Korczewski, Rozmowy polskie łacińskim 
+językiem przeplatane, Kraków 1553. 
+Krofej 
+Sz. Krofej, Duchowne piesnie M. Lutra ... w 
+sławięski język wyłożone, Gdańsk 1586 
+– wyd. fototypiczne R. Olescha 1958. 
+KromHist 
+M. Kromer, Historia prawdziwa o przygodzie 
+żałosnej książęcia finlandzkiego Jana i króle- 
+wny polskiej Katarzyny [1570], oprac. J. Mał- 
+łek, Olsztyn 1974. 
+KromPol 
+M. Kromer, Polonia, Kolonia 1578. 
+KroniczTasz 
+W. Urban, Kroniczka rodziny Taszyckich z 
+końca XVI wieku, „Odrodzenie i Reformacja 
+w Polsce” XIII, 1968. 
+KronMieszcz 
+Kronika mieszczanina krakowskiego z lat 
+1575–1595, wyd. H. Barycz, Kraków 1930. 
+KronWKLit 
+Wielkiego Księstwa Litewskiego i Żmudzkie- 
+go kronika, podług rękopisu z r. 1550 wyd. S. 
+Ptaszycki, Warszawa 1932. 
+KrowNap 
+M. Krowicki, Chrześcijańskie a żałobliwe na- 
+pominanie, Magdeburg 1554, oprac. B. Otwi- 
+nowska i J. Tazbir, Warszawa 1969. 
+KrowObraz 
+M. Krowicki, Obraz a kontrefet własny Anty- 
+krystów, (Pińczów) 1561. 
+KrzyżKaz 
+H. Krzyżanowski, Kazania, w których zamyka 
+się wykład kreda, Kraków 1566. 
+KsięgaDochod 
+Księga dochodów beneficjów diecezji krakow- 
+skiej z r. 1529, wyd. Z. Leszczyńska-Skrętowa, 
+Wrocław 1968. 
+KsięgaSądIwk 
+Księga sądowa wsi Iwkowej 1581–1809, op- 
+rac. S. Płaza, Wrocław 1969. 
+KsięgaSądTrześ Najstarsza księga sądowa wsi Trześniowa 1419– 
+–1606, wyd. H. Polaczkówna, Lwów 1923. 
+KsięgaSądWary Księga sądowa wsi Wary 1449–1623, oprac. L. 
+Łysiak, Wrocław 1971. 
+KsięgiEklez 
+Księgi Jezusa syna Syrachowego, „Eklezjasty- 
+kus” rzeczone, [tłum. Piotr z Poznania], Kra- 
+ków 1541. 
+KsięgiPrzyjęć 
+Księgi przyjęć do prawa miejskiego w Krako- 
+wie 1392–1506, wyd. K. Kaczmarczyk, Kra- 
+ków 1913. 
+KsięgiSądŁąck 
+Księgi sądowe wiejskie klucza łąckiego, t. I, 
+1526–1739, oprac. A. Vetulani, Wrocław 1962. 
+KsięgiSądWiej 
+Księgi sądowe wiejskie, t. I–II, wyd. B. Ula- 
+nowski, Kraków 1921. 
+KuczbPrzestr 
+W. Kuczborski, Przestroga przeciw konfedera- 
+cjej [1569, w:] Sześć broszur politycznych z 
+XVI i początku XVII stulecia, wyd. B. Ula- 
+nowski, Kraków 1921. 
+LaurLament 
+Stanislaus Laurencii, Lament nieszczęsnego 
+Herhora Ościka, (Wilno 1580). 
+LekKoń 
+Lekarstwa końskie doskonałe, b.m. i r. 
+Leop 1577 
+J. Leopolita, Biblia, wyd. 3, Kraków 1577. 
+LeopSApologia Leopoliensis Stanislaus, Apologia, to jest obro- 
+nienie wiary świętej krześcijańskiej, Kraków 
+1554. 
+LGranWarszPrzew Ludwik z Granady, Przewodnik grzesznych lu- 
+dzi, [tłum. S. Warszewicki], Kraków 1570, 
+1579. 
+LGranWarszZwierc Ludwik z Granady, Zwierciadło człowieka 
+krześcijańskiego, [tłum. S. Warszewicki], Po- 
+znań 1577, 1585. 
+LipsPiotr 
+J. Lipsius, O stałości księgi dwoje, [tłum. J. 
+Piotrowicz], Wilno 1600. 
+ListyHier 
+Listy Hieronima św., Kraków 1573. 
+ListyPol 
+Listy polskie XVI wieku, pod red. K. Rymuta, 
+t. I, Listy z lat 1525–1548, Kraków 1998, t. II, 
+Listy z lat 1548–1550, Kraków 2001, t. III, 
+Listy z lat 1550–1551, Kraków 2004. 
+ListyZygmAug 
+Listy króla Zygmunta Augusta do Radziwił- 
+łów, oprac. J. Kaniewska, Kraków 1997. 
+LorichKosz 
+R. Lorichius, Księgi o wychowaniu i o ćwicze- 
+niu każdego przełożonego, [tłum. S. Koszut- 
+ski], Kraków 1558. 
+LubWiryd 
+J. Lubelczyk, Wirydarz krześcijański, Kraków 
+1558, wyd. K. Meller, „Archiwum Literackie” 
+XXVII, 1990. 
+LucSamosKur 
+Lucianus Samosatensis, Kur z greckiego na 
+polskie przełożony, Kraków 1578. 
+LustrDróg 
+Lustracja dróg województwa krakowskiego z 
+roku 1570, wyd. B. Wyrozumska, Wrocław 
+1971. 
+LustrKrak 
+Lustracja województwa krakowskiego 1564, 
+cz. I–II, wyd. J. Małecki, Warszawa 1962, 
+1964. 
+LustrLub 
+Lustracja województwa lubelskiego 1565, 
+wyd. A. Wyczański, Wrocław 1959. 
+LustrMalb 
+Lustracja województwa malborskiego i cheł- 
+mińskiego 1565, wyd. S. Hoszowski, Gdańsk 
+1961; jw. 1570, Gdańsk 1962. 
+LustrMaz 
+Lustracja województwa mazowieckiego 1565, 
+cz. I–II, wyd. I. Gieysztorowa i A. Żaboklicka, 
+Warszawa 1967, 1968. 
+LustrPłoc 
+Lustracje województwa płockiego 1565–1789, 
+wyd. A. Sucheni-Grabowska, S. M. Szacher- 
+ska, Warszawa 1965. 
+LustrPodl 
+Lustracje województwa podlaskiego 1570 i 
+1576, wyd. J. Topolski i J. Wiśniewski, Wroc- 
+ław 1959. 
+LustrPom 
+Lustracja województwa pomorskiego 1565, 
+wyd. S. Hoszowski, Gdańsk 1961. 
+LustrRaw 
+Lustracje województwa rawskiego 1564 i 
+1570, wyd. Z. Kędzierska, Warszawa 1959. 
+LustrRus 
+Lustracja województw ruskiego, podolskiego i 
+bełskiego 1564–1565, cz. I, wyd. K. Chłapow- 
+ski i H. Żytkowicz, Warszawa – Łódź 1992. 
+LustrSand 
+Lustracja województwa sandomierskiego 
+1564–1565, wyd. W. Ochmański, Wrocław 
+1963. 
+LustrWpol 
+Lustracja województw wielkopolskich i ku- 
+jawskich 1564–1565, cz. I, wyd. A. Tomczak, 
+Cz. Ohryzko-Włodarska, J. Włodarczyk, Byd- 
+goszcz 1961; – cz. II, wyd. A. Tomczak, Byd- 
+goszcz 1963. 
+LuterMalKat 
+M. Luter, Katechizm mały, [tłum. H. Malecki], 
+Kraków 1593. 
+LuterMalPos 
+M. Luter, Postylla domowa, [tłum. H. Malec- 
+ki], Królewiec 1574. 
+ŁaskiSprRyc 
+(S. Łaski), Spraw i postępków rycerskich i 
+przewagi opisanie krótkie, Lwów 1599. 
+ŁaszczKąkol 
+M. Łaszcz, Kąkol, który rozsiewa Stefanek Zy- 
+zania w cerkwiach ruskich w Wilnie, Kraków 
+1595. 
+ŁaszczOkulary 
+M. Łaszcz, Okulary na „Zwierciadło nabożeń- 
+stwa chrześcijańskiego”, Wilno 1594. 
+ŁaszczPogrom 
+M. Łaszcz, Pogrom lewartowski, Kraków 
+1592. 
+ŁaszczRecepta 
+M. Łaszcz, Recepta na „Plastr” Czechowica, 
+Kraków 1597. 
+ŁaszczWiecz 
+M. Łaszcz, Wieczerza ewangelicka, Wilno 
+1594. 
+ŁopacSł 
+H. Łopaciński, Najdawniejsze słowniki polskie 
+drukowane, „Prace Filologiczne” V, 1899. 
+MalaspJan 
+G. Malaspina, O lidze oracja, [tłum. J. Janu- 
+szowski], Kraków 1596. 
+MartyrNik 
+Martyrologium kościoła rzymskiego, [tłum. 
+Sz. Nikowski], Kraków 1591. 
+MatReform 
+Materiały do dziejów reformacji w Krakowie, 
+oprac. R. Żelewski, Wrocław 1962. 
+MatStosKult 
+Materiały do historii stosunków kulturalnych 
+w XVI w. na dworze królewskim polskim, 
+zebr. S. Tomkowicz, Kraków 1915. 
+MatthComm 
+P. A. Matthiolus, Commentarii in sex libros Pe- 
+dacii Dioscoridis, Wenecja 1565. 
+MelanRad 
+E. Melanchton, Examen theologicum, [tłum. J. 
+Radomski], Królewiec 1566. 
+MemorPretw 
+Memoriał Bernarda Pretwicza do króla z 1550 
+r., oprac. A. Tomczak, „Studia i Materiały do 
+Historii Wojskowości”, t. 6, cz. 2, Warszawa 
+1960. 
+MichWiślDzien Michał z Wiślicy, Wybór z Ewangeliami ... ku 
+latu pańskiemu 1539, (Kraków 1538). 
+Miech 
+M. Miechowita, Descriptio Sarmatiarum Asia- 
+nae et Europianae, Kraków 1521. 
+MikSzadDzien 
+Mikołaj z Szadka, Dziennik czasów wybra- 
+nych 1528, (Kraków 1527/28). 
+MikSzadWysł 
+Mikołaj z Szadka, Wysłowienie znaków nie- 
+bieskich ... na rok ... 1528 złożone, wyd. Z. Ce- 
+lichowski [w:] „Dwa kalendarze polskie na rok 
+1528 i 1529”, Poznań 1874. 
+ModlKobiet 
+Modlitewnik dla kobiet z w. XVI (rękopis ok. 
+1530–1549), wyd. S. Ptaszycki, Kraków 1905. 
+ModlKonst 
+Modlitewnik siostry Konstancji z r. 1527, wyd. 
+W. Wisłocki, [w:] „Sprawozdania Komisji Ję- 
+zykowej Akademii Umiejętności”, t. III, 1884. 
+MojŻydOkr 
+P. Mojecki, Żydowskie okrucieństwa, mordy i 
+zabobony, Kraków 1598. 
+MorawRozm 
+Stanisław ze Szczodrkowic Morawicki, Roz- 
+mowa nowa niektórego Pielgrzyma z Gospo- 
+darzem o niektórych cerymoniach kościelnych, 
+(Kraków) 1549. 
+MrowStadło 
+J. Mrowiński Płoczywłos, Stadło małżeńskie, 
+Kraków 1561. 
+MurmSpicz 
+J. Murmelius, Oratiumculae variae puerorum 
+usui expositae, [tłum. H. Spiczyński], Kraków 
+1527. 
+
+KsięgaDochod 
+Księga dochodów beneficjów diecezji krakow- 
+skiej z r. 1529, wyd. Z. Leszczyńska-Skrętowa, 
+Wrocław 1968. 
+KsięgaSądIwk 
+Księga sądowa wsi Iwkowej 1581–1809, op- 
+rac. S. Płaza, Wrocław 1969. 
+KsięgaSądTrześ Najstarsza księga sądowa wsi Trześniowa 1419– 
+–1606, wyd. H. Polaczkówna, Lwów 1923. 
+KsięgaSądWary Księga sądowa wsi Wary 1449–1623, oprac. L. 
+Łysiak, Wrocław 1971. 
+KsięgiEklez 
+Księgi Jezusa syna Syrachowego, „Eklezjasty- 
+kus” rzeczone, [tłum. Piotr z Poznania], Kra- 
+ków 1541. 
+KsięgiPrzyjęć 
+Księgi przyjęć do prawa miejskiego w Krako- 
+wie 1392–1506, wyd. K. Kaczmarczyk, Kra- 
+ków 1913. 
+KsięgiSądŁąck 
+Księgi sądowe wiejskie klucza łąckiego, t. I, 
+1526–1739, oprac. A. Vetulani, Wrocław 1962. 
+KsięgiSądWiej 
+Księgi sądowe wiejskie, t. I–II, wyd. B. Ula- 
+nowski, Kraków 1921. 
+KuczbPrzestr 
+W. Kuczborski, Przestroga przeciw konfedera- 
+cjej [1569, w:] Sześć broszur politycznych z 
+XVI i początku XVII stulecia, wyd. B. Ula- 
+nowski, Kraków 1921. 
+LaurLament 
+Stanislaus Laurencii, Lament nieszczęsnego 
+Herhora Ościka, (Wilno 1580). 
+LekKoń 
+Lekarstwa końskie doskonałe, b.m. i r. 
+Leop 1577 
+J. Leopolita, Biblia, wyd. 3, Kraków 1577. 
+LeopSApologia Leopoliensis Stanislaus, Apologia, to jest obro- 
+nienie wiary świętej krześcijańskiej, Kraków 
+1554. 
+LGranWarszPrzew Ludwik z Granady, Przewodnik grzesznych lu- 
+dzi, [tłum. S. Warszewicki], Kraków 1570, 
+1579. 
+LGranWarszZwierc Ludwik z Granady, Zwierciadło człowieka 
+krześcijańskiego, [tłum. S. Warszewicki], Po- 
+znań 1577, 1585. 
+LipsPiotr 
+J. Lipsius, O stałości księgi dwoje, [tłum. J. 
+Piotrowicz], Wilno 1600. 
+ListyHier 
+Listy Hieronima św., Kraków 1573. 
+ListyPol 
+Listy polskie XVI wieku, pod red. K. Rymuta, 
+t. I, Listy z lat 1525–1548, Kraków 1998, t. II, 
+Listy z lat 1548–1550, Kraków 2001, t. III, 
+Listy z lat 1550–1551, Kraków 2004. 
+ListyZygmAug 
+Listy króla Zygmunta Augusta do Radziwił- 
+łów, oprac. J. Kaniewska, Kraków 1997. 
+LorichKosz 
+R. Lorichius, Księgi o wychowaniu i o ćwicze- 
+niu każdego przełożonego, [tłum. S. Koszut- 
+ski], Kraków 1558. 
+LubWiryd 
+J. Lubelczyk, Wirydarz krześcijański, Kraków 
+1558, wyd. K. Meller, „Archiwum Literackie” 
+XXVII, 1990. 
+LucSamosKur 
+Lucianus Samosatensis, Kur z greckiego na 
+polskie przełożony, Kraków 1578. 
+LustrDróg 
+Lustracja dróg województwa krakowskiego z 
+roku 1570, wyd. B. Wyrozumska, Wrocław 
+1971. 
+LustrKrak 
+Lustracja województwa krakowskiego 1564, 
+cz. I–II, wyd. J. Małecki, Warszawa 1962, 
+1964. 
+LustrLub 
+Lustracja województwa lubelskiego 1565, 
+wyd. A. Wyczański, Wrocław 1959. 
+LustrMalb 
+Lustracja województwa malborskiego i cheł- 
+mińskiego 1565, wyd. S. Hoszowski, Gdańsk 
+1961; jw. 1570, Gdańsk 1962. 
+LustrMaz 
+Lustracja województwa mazowieckiego 1565, 
+cz. I–II, wyd. I. Gieysztorowa i A. Żaboklicka, 
+Warszawa 1967, 1968. 
+LustrPłoc 
+Lustracje województwa płockiego 1565–1789, 
+wyd. A. Sucheni-Grabowska, S. M. Szacher- 
+ska, Warszawa 1965. 
+LustrPodl 
+Lustracje województwa podlaskiego 1570 i 
+1576, wyd. J. Topolski i J. Wiśniewski, Wroc- 
+ław 1959. 
+LustrPom 
+Lustracja województwa pomorskiego 1565, 
+wyd. S. Hoszowski, Gdańsk 1961. 
+LustrRaw 
+Lustracje województwa rawskiego 1564 i 
+1570, wyd. Z. Kędzierska, Warszawa 1959. 
+LustrRus 
+Lustracja województw ruskiego, podolskiego i 
+bełskiego 1564–1565, cz. I, wyd. K. Chłapow- 
+ski i H. Żytkowicz, Warszawa – Łódź 1992. 
+LustrSand 
+Lustracja województwa sandomierskiego 
+1564–1565, wyd. W. Ochmański, Wrocław 
+1963. 
+LustrWpol 
+Lustracja województw wielkopolskich i ku- 
+jawskich 1564–1565, cz. I, wyd. A. Tomczak, 
+Cz. Ohryzko-Włodarska, J. Włodarczyk, Byd- 
+goszcz 1961; – cz. II, wyd. A. Tomczak, Byd- 
+goszcz 1963. 
+LuterMalKat 
+M. Luter, Katechizm mały, [tłum. H. Malecki], 
+Kraków 1593. 
+LuterMalPos 
+M. Luter, Postylla domowa, [tłum. H. Malec- 
+ki], Królewiec 1574. 
+ŁaskiSprRyc 
+(S. Łaski), Spraw i postępków rycerskich i 
+przewagi opisanie krótkie, Lwów 1599. 
+ŁaszczKąkol 
+M. Łaszcz, Kąkol, który rozsiewa Stefanek Zy- 
+zania w cerkwiach ruskich w Wilnie, Kraków 
+1595. 
+ŁaszczOkulary 
+M. Łaszcz, Okulary na „Zwierciadło nabożeń- 
+stwa chrześcijańskiego”, Wilno 1594. 
+ŁaszczPogrom 
+M. Łaszcz, Pogrom lewartowski, Kraków 
+1592. 
+ŁaszczRecepta 
+M. Łaszcz, Recepta na „Plastr” Czechowica, 
+Kraków 1597. 
+ŁaszczWiecz 
+M. Łaszcz, Wieczerza ewangelicka, Wilno 
+1594. 
+ŁopacSł 
+H. Łopaciński, Najdawniejsze słowniki polskie 
+drukowane, „Prace Filologiczne” V, 1899. 
+MalaspJan 
+G. Malaspina, O lidze oracja, [tłum. J. Janu- 
+szowski], Kraków 1596. 
+MartyrNik 
+Martyrologium kościoła rzymskiego, [tłum. 
+Sz. Nikowski], Kraków 1591. 
+MatReform 
+Materiały do dziejów reformacji w Krakowie, 
+oprac. R. Żelewski, Wrocław 1962. 
+MatStosKult 
+Materiały do historii stosunków kulturalnych 
+w XVI w. na dworze królewskim polskim, 
+zebr. S. Tomkowicz, Kraków 1915. 
+MatthComm 
+P. A. Matthiolus, Commentarii in sex libros Pe- 
+dacii Dioscoridis, Wenecja 1565. 
+MelanRad 
+E. Melanchton, Examen theologicum, [tłum. J. 
+Radomski], Królewiec 1566. 
+MemorPretw 
+Memoriał Bernarda Pretwicza do króla z 1550 
+r., oprac. A. Tomczak, „Studia i Materiały do 
+Historii Wojskowości”, t. 6, cz. 2, Warszawa 
+1960. 
+MichWiślDzien Michał z Wiślicy, Wybór z Ewangeliami ... ku 
+latu pańskiemu 1539, (Kraków 1538). 
+Miech 
+M. Miechowita, Descriptio Sarmatiarum Asia- 
+nae et Europianae, Kraków 1521. 
+MikSzadDzien 
+Mikołaj z Szadka, Dziennik czasów wybra- 
+nych 1528, (Kraków 1527/28). 
+MikSzadWysł 
+Mikołaj z Szadka, Wysłowienie znaków nie- 
+bieskich ... na rok ... 1528 złożone, wyd. Z. Ce- 
+lichowski [w:] „Dwa kalendarze polskie na rok 
+1528 i 1529”, Poznań 1874. 
+ModlKobiet 
+Modlitewnik dla kobiet z w. XVI (rękopis ok. 
+1530–1549), wyd. S. Ptaszycki, Kraków 1905. 
+ModlKonst 
+Modlitewnik siostry Konstancji z r. 1527, wyd. 
+W. Wisłocki, [w:] „Sprawozdania Komisji Ję- 
+zykowej Akademii Umiejętności”, t. III, 1884. 
+MojŻydOkr 
+P. Mojecki, Żydowskie okrucieństwa, mordy i 
+zabobony, Kraków 1598. 
+MorawRozm 
+Stanisław ze Szczodrkowic Morawicki, Roz- 
+mowa nowa niektórego Pielgrzyma z Gospo- 
+darzem o niektórych cerymoniach kościelnych, 
+(Kraków) 1549. 
+MrowStadło 
+J. Mrowiński Płoczywłos, Stadło małżeńskie, 
+Kraków 1561. 
+MurmSpicz 
+J. Murmelius, Oratiumculae variae puerorum 
+usui expositae, [tłum. H. Spiczyński], Kraków 
+1527. 
+MusProgn 
+Jan Musonius, Prognosticon solis et lunae, 
+eclipsium. Obwieszczenie skutków ... zaćmie- 
+nia, Kraków 1597. 
+MurzEwMat 
+S. Murzynowski, Ewangelia ... wedle Mateu- 
+sza świętego, Królewiec 1551. 
+MWilkOpis 
+Mikołaj z Wilkowiecka, O mszy świętej opisa- 
+nie, Kraków 1586. 
+MymerRegim 
+F. Mymer, Regimen sanitatis ... Dobrego zdro- 
+wia rządzenie, Kraków 1532. 
+NaprJan 
+D. Napragi, Poselstwo węgierskich posłów, 
+[tłum. J. Januszowski], Kraków 1595. 
+Narzek 
+Narzekanie królewnej na nieszczeście śmierci, 
+(Kraków 1551). 
+NeothAcros 
+W. Neothebel, Acrostichis własnego wyobra- 
+żenia kniazia wielkiego moskiewskiego, (To- 
+ruń 1581). 
+NiemDiatribe 
+Jakub Niemojewski, Diatribe, (Grodzisk 1579). 
+NiemJedn 
+Jakub Niemojewski, O jedności boskiej, Kra- 
+ków 1566. 
+NiemOdpow 
+Jakub Niemojewski, Odpowiedź na książki 
+księdza Benedykta Herbesta, Kraków 1569. 
+NiemRepl 
+Jakub Niemojewski, Replika na książki księży 
+jezuitów poznańskich, Toruń 1582. 
+NiemJOpis 
+Jan Niemojewski, Krótkie a prawdziwe opisa- 
+nie dysputacjej, Kraków (1592). 
+NiemJUkaz 
+Jan Niemojewski, Ukazanie, iż kościół rzym- 
+ski nie jest apostolski, (Kraków 1584). 
+NieuwiarŚm 
+O nieuwiarowaniu śmierci (opis śmierci E. z 
+Szydłowieckich Radziwiłowej – 1562 – ręko- 
+pis), wyd. M. Karpluk, J. Pirożyński, „Archi- 
+wum Literackie” XXVII, 1990. 
+NowomModl 
+W. Nowomiejski, Modlitwy nabożne, Króle- 
+wiec 1559. 
+OczkoPrzymiot W. Oczko, Przymiot, Kraków 1581; też z wyd. 
+A. A. Kryńskiego, Warszawa 1881. 
+OpecŻyw 1538 
+B. Opec, Żywot Pana Jezu Krysta, Kraków 1538. 
+OpecŻywWiet 
+B. Opec, Żywot wszechmocnego Syna Bożego, 
+Pana Jezu Krysta, wyd. H. Wietor, Kraków 1522. 
+OpisyPozn 
+Opisy i lustracje Poznania z XVI–XVIII w., 
+przygot. M. J. Mika, Poznań 1960. 
+OpisŻup 
+Opis żup krakowskich z roku 1518, wyd. A. 
+Keckowa i A. Wolf, [w:] „Kwartalnik Historii 
+Kultury Materialnej”, t. IX, 1961. 
+OrdunekGórn 
+Ordunek gorny – ustawa górnicza dla Górnego 
+Śląska z 1528 r., oprac. E. Kobzdaj, Wrocław 
+1990. 
+OrdynWiej 
+Ordynacje i ustawy wiejskie z archiwów 
+metropolitalnego i kapitulnego w Krakowie 
+1451–1689, oprac. S. Kuraś, Kraków 1960. 
+OrszakPos 
+G. Orszak, Postylla polska domowa, (Króle- 
+wiec) 1556. 
+OrtyleSądWpol Ortyle sądów wyższych miast wielkopolskich 
+z XV i XVI wieku, wyd. W. Maisel, Wrocław 
+1959. 
+OrzKsiąż 
+S. Orzechowski, Książki ... o ruszeniu ziemie 
+polskiej przeciw Turkowi, Kraków 1543. 
+OrzPolic 
+S. Orzechowski, Policyja Królestwa Polskiego, 
+oprac. J. Starnawski, Przemyśl 1984. 
+OrzŻyw 
+S. Orzechowski, [Żywot i śmierć Jana Tarnow- 
+skiego], [w:] S. Orzechowski, Wybór pism, op- 
+rac. J. Starnawski, Wrocław 1972. 
+Osądzenie 
+Osądzenie spraw niebieskich ... na rok ... 1529, 
+wyd. Z. Celichowski [zob. MikSzadWysł]. 
+OstrowKsięgi 
+S. Ostrowski, Księgi o prawdziwym bóstwie 
+Jezu Chrysta, Poznań 1588. 
+Otwin(?)Erot 
+E. Otwinowski (?), Anonima-Protestanta XVI 
+wieku erotyki, fraszki, obrazki, epigramaty 
+[1562–1567], wyd. I. Chrzanowski, Kraków 
+1903. 
+OtwinPis 
+E. Otwinowski, Pisma poetyckie, wyd. P. Wil- 
+czek, Warszawa 1999. 
+OtwinWypis 
+E. Otwinowski, Wypisanie drogi tureckiej, 
+[w:] Antologia pamiętników polskich XVI 
+wieku, pod red. R. Pollaka, wybór i oprac. S. 
+Drewniak i M. Kaczmarek, Wrocław 1966. 
+PalladIsag 
+P. Palladius, Isagoge, to jest przystęp do pisem 
+świętych Starego i Nowego Testamentu, (Sza- 
+motuły) 1560. 
+PamJancz 
+Pamiętniki Janczara, wyd. J. Łoś, Kraków 1902. 
+PańskModl- 
+Pańskiej modlitwy krześcijańskie ... wyłożenie, 
+Wyłoż Kraków 1543. 
+PaprGniazdo 
+B. Paprocki, Gniazdo cnoty, Kraków 1578. 
+PaprHerby 
+B. Paprocki, Herby rycerstwa polskiego, Kra- 
+ków 1584. 
+PaprHist 
+B. Paprocki, Historia ... o Ekunausie, Kraków 
+1578. 
+PaprKoło 
+B. Paprocki, Koło rycerskie [powst. ok. 1576], 
+(Raków po 1623). 
+PaprOdpow 
+B. Paprocki, Na harde a wszeteczne śpiewanie 
+Joachima Bielskiego o byczyńskiej przygodzie 
+Odpowiedź, (Praga) 1588. 
+PaprOgród 
+B. Paprocki, Ogród królewski, Praga 1599. 
+PaprPam 
+B. Paprocki, Pamięć nierządu w Polsce, b.m. 
+1588. 
+PaprPrzykaz 
+B. Paprocki, Dziesięcioro przykazanie mężo- 
+wo, Kraków ok. 1575. 
+PaprTriumf 
+B. Paprocki, Triumf satyrów leśnych, syren wo- 
+dnych, planet niebieskich z szczęśliwego zwró- 
+cenia króla polskiego Stefana, Kraków 1582. 
+PawłList 
+K. Pawłowski, List z Indii [1596, w:] Antolo- 
+gia pamiętników polskich XVI wieku, pod red. 
+R. Pollaka, Wrocław 1966. 
+PiotrDzien 
+J. Piotrowski, Dziennik wyprawy Stefana Ba- 
+torego pod Psków, [w:] Antologia pamiętni- 
+ków polskich XVI wieku, pod red. R. Pollaka, 
+Wrocław 1966. 
+PiotrGonPonurz Piotr z Goniądza, O ponurzaniu chrystyjań- 
+skim, Węgrów 1570. 
+PiotrGonSyn 
+Piotr z Goniądza, O Synu Bożem, Węgrów 1570. 
+PiotrGonTrzech Piotr z Goniądza, O trzech, to jest o Bogu, o 
+Synu jego i o Duchu Ś., Węgrów 1570. 
+PismaPolit 
+Pisma polityczne z czasów pierwszego bezkró- 
+lewia, wyd. J. Czubek, Kraków 1906. 
+PlutBBud 
+Plutarch, Krótkich a węzłowatych powieści, 
+które po grecku zową apoftegmata, księgi IV, 
+[tłum. B. Budny], Wilno 1599. 
+PlutMKoch 
+Plutarchus, autor grecki, przełożony na język 
+polski przez M. Kochanowskiego, rękopis BN, 
+sygn. BOZ 1393, [w:] J. Kochanowski, Dzieła 
+wszystkie, t. VII, cz. 2, Wrocław 1977. 
+Pobór 
+Pobór pogłówny na sejmie walnym koronnym 
+warszwskim roku 1590 uchwalony, [w:] Kon- 
+stytucje, Kraków 1590 [zob. Konst]. 
+PociejAntir 
+[H. Pociej], Antirresis abo apologia przeciwko 
+Krzysztofowi Filaletowi, Wilno 1600. 
+PoklPogrom 
+S. Poklatecki, Pogrom czarnoksięskie błędy, 
+latawców zdrady i alchimickie fałsze jako roz- 
+prasza, Kraków 1595. 
+PoklSnów 
+S. Poklatecki, Snów dobrych obronę, a szkod- 
+liwych przestrogę ... wydał, Kraków 1594. 
+PorozumPowod Porozumienie kalwinistów franuskich z prote- 
+stanty niemieckimi, [tłum. H. Powodowski], 
+Poznań 1585. 
+PosPol 
+Postylla polska, to jest lekcje, epistoły i ewan- 
+gelie niedzielne, postne, Królewiec 1581. 
+PostępekPrCzart Postępek prawa czartowskiego przeciw naro- 
+dowi ludzkiemu, Brześć 1570. 
+Potkanie 
+Potkanie Jannasa z Gregoriasem klechą, Kra- 
+ków 1598. 
+Potwierdz 
+Potwierdzenie przywilejów koronnych, (Kra- 
+ków ok. 1550). 
+PowKlasztŁys 
+Powieść rzeczy istej o założeniu klasztora na 
+Łysej Górze, (Kraków ok. 1538), wyd. 2, Kra- 
+ków b.r. 
+PowodDysp 
+H. Powodowski, Dysputacja odprawowana 
+dnia 27 grudnia 1581, (Kraków 1586). 
+PowodKat 
+H. Powodowski, Katechizm kościoła powsze- 
+chnego, Poznań 1577. 
+PowodKaz 
+H. Powodowski, Kazania niektóre o szczyrym 
+słowie bożym, Poznań 1578. 
+
+MusProgn 
+Jan Musonius, Prognosticon solis et lunae, 
+eclipsium. Obwieszczenie skutków ... zaćmie- 
+nia, Kraków 1597. 
+MurzEwMat 
+S. Murzynowski, Ewangelia ... wedle Mateu- 
+sza świętego, Królewiec 1551. 
+MWilkOpis 
+Mikołaj z Wilkowiecka, O mszy świętej opisa- 
+nie, Kraków 1586. 
+MymerRegim 
+F. Mymer, Regimen sanitatis ... Dobrego zdro- 
+wia rządzenie, Kraków 1532. 
+NaprJan 
+D. Napragi, Poselstwo węgierskich posłów, 
+[tłum. J. Januszowski], Kraków 1595. 
+Narzek 
+Narzekanie królewnej na nieszczeście śmierci, 
+(Kraków 1551). 
+NeothAcros 
+W. Neothebel, Acrostichis własnego wyobra- 
+żenia kniazia wielkiego moskiewskiego, (To- 
+ruń 1581). 
+NiemDiatribe 
+Jakub Niemojewski, Diatribe, (Grodzisk1579). 
+NiemJedn 
+Jakub Niemojewski, O jedności boskiej, Kra- 
+ków 1566. 
+NiemOdpow 
+Jakub Niemojewski, Odpowiedź na książki 
+księdza Benedykta Herbesta, Kraków 1569. 
+NiemRepl 
+Jakub Niemojewski, Replika na książki księży 
+jezuitów poznańskich, Toruń 1582. 
+NiemJOpis 
+Jan Niemojewski, Krótkie a prawdziwe opisa- 
+nie dysputacjej, Kraków (1592). 
+NiemJUkaz 
+Jan Niemojewski, Ukazanie, iż kościół rzym- 
+ski nie jest apostolski, (Kraków 1584). 
+NieuwiarŚm 
+O nieuwiarowaniu śmierci (opis śmierci E. z 
+Szydłowieckich Radziwiłowej – 1562 – ręko- 
+pis), wyd. M. Karpluk, J. Pirożyński, „Archi- 
+wum Literackie” XXVII, 1990. 
+NowomModl 
+W. Nowomiejski, Modlitwy nabożne, Króle- 
+wiec 1559. 
+OczkoPrzymiot W. Oczko, Przymiot, Kraków 1581; też z wyd. 
+A. A. Kryńskiego, Warszawa 1881. 
+OpecŻyw 1538 
+B. Opec, Żywot Pana Jezu Krysta, Kraków 1538. 
+OpecŻywWiet 
+B. Opec, Żywot wszechmocnego Syna Bożego, 
+Pana Jezu Krysta, wyd. H. Wietor, Kraków 1522. 
+OpisyPozn 
+Opisy i lustracje Poznania z XVI–XVIII w., 
+przygot. M. J. Mika, Poznań 1960. 
+OpisŻup 
+Opis żup krakowskich z roku 1518, wyd. A. 
+Keckowa i A. Wolf, [w:] „Kwartalnik Historii 
+Kultury Materialnej”, t. IX, 1961. 
+OrdunekGórn 
+Ordunek gorny – ustawa górnicza dla Górnego 
+Śląska z 1528 r., oprac. E. Kobzdaj, Wrocław 
+1990. 
+OrdynWiej 
+Ordynacje i ustawy wiejskie z archiwów 
+metropolitalnego i kapitulnego w Krakowie 
+1451–1689, oprac. S. Kuraś, Kraków 1960. 
+OrszakPos 
+G. Orszak, Postylla polska domowa, (Króle- 
+wiec) 1556. 
+OrtyleSądWpol Ortyle sądów wyższych miast wielkopolskich 
+z XV i XVI wieku, wyd. W. Maisel, Wrocław 
+1959. 
+OrzKsiąż 
+S. Orzechowski, Książki ... o ruszeniu ziemie 
+polskiej przeciw Turkowi, Kraków 1543. 
+OrzPolic 
+S. Orzechowski, Policyja Królestwa Polskiego, 
+oprac. J. Starnawski, Przemyśl 1984. 
+OrzŻyw 
+S. Orzechowski, [Żywot i śmierć Jana Tarnow- 
+skiego], [w:] S. Orzechowski, Wybór pism, op- 
+rac. J. Starnawski, Wrocław 1972. 
+Osądzenie 
+Osądzenie spraw niebieskich ... na rok ... 1529, 
+wyd. Z. Celichowski [zob. MikSzadWysł]. 
+OstrowKsięgi 
+S. Ostrowski, Księgi o prawdziwym bóstwie 
+Jezu Chrysta, Poznań 1588. 
+Otwin(?)Erot 
+E. Otwinowski (?), Anonima-Protestanta XVI 
+wieku erotyki, fraszki, obrazki, epigramaty 
+[1562–1567], wyd. I. Chrzanowski, Kraków 
+1903. 
+OtwinPis 
+E. Otwinowski, Pisma poetyckie, wyd. P. Wil- 
+czek, Warszawa 1999. 
+OtwinWypis 
+E. Otwinowski, Wypisanie drogi tureckiej, 
+[w:] Antologia pamiętników polskich XVI 
+wieku, pod red. R. Pollaka, wybór i oprac. S. 
+Drewniak i M. Kaczmarek, Wrocław 1966. 
+PalladIsag 
+P. Palladius, Isagoge, to jest przystęp do pisem 
+świętych Starego i Nowego Testamentu, (Sza- 
+motuły) 1560. 
+PamJancz 
+Pamiętniki Janczara, wyd. J. Łoś, Kraków 1902. 
+PańskModl- 
+Pańskiej modlitwy krześcijańskie ... wyłożenie, 
+Wyłoż Kraków 1543. 
+PaprGniazdo 
+B. Paprocki, Gniazdo cnoty, Kraków 1578. 
+PaprHerby 
+B. Paprocki, Herby rycerstwa polskiego, Kra- 
+ków 1584. 
+PaprHist 
+B. Paprocki, Historia ... o Ekunausie, Kraków 
+1578. 
+PaprKoło 
+B. Paprocki, Koło rycerskie [powst. ok. 1576], 
+(Raków po 1623). 
+PaprOdpow 
+B. Paprocki, Na harde a wszeteczne śpiewanie 
+Joachima Bielskiego o byczyńskiej przygodzie 
+Odpowiedź, (Praga) 1588. 
+PaprOgród 
+B. Paprocki, Ogród królewski, Praga 1599. 
+PaprPam 
+B. Paprocki, Pamięć nierządu w Polsce, b.m. 
+1588. 
+PaprPrzykaz 
+B. Paprocki, Dziesięcioro przykazanie mężo- 
+wo, Kraków ok. 1575. 
+PaprTriumf 
+B. Paprocki, Triumf satyrów leśnych, syren wo- 
+dnych, planet niebieskich z szczęśliwego zwró- 
+cenia króla polskiego Stefana, Kraków 1582. 
+PawłList 
+K. Pawłowski, List z Indii [1596, w:] Antolo- 
+gia pamiętników polskich XVI wieku, pod red. 
+R. Pollaka, Wrocław 1966. 
+PiotrDzien 
+J. Piotrowski, Dziennik wyprawy Stefana Ba- 
+torego pod Psków, [w:] Antologia pamiętni- 
+ków polskich XVI wieku, pod red. R. Pollaka, 
+Wrocław 1966. 
+PiotrGonPonurz Piotr z Goniądza, O ponurzaniu chrystyjań- 
+skim, Węgrów 1570. 
+PiotrGonSyn 
+Piotr z Goniądza, O Synu Bożem, Węgrów 1570. 
+PiotrGonTrzech Piotr z Goniądza, O trzech, to jest o Bogu, o 
+Synu jego i o Duchu Ś., Węgrów 1570. 
+PismaPolit 
+Pisma polityczne z czasów pierwszego bezkró- 
+lewia, wyd. J. Czubek, Kraków 1906. 
+PlutBBud 
+Plutarch, Krótkich a węzłowatych powieści, 
+które po grecku zową apoftegmata, księgi IV, 
+[tłum. B. Budny], Wilno 1599. 
+PlutMKoch 
+Plutarchus, autor grecki, przełożony na język 
+polski przez M. Kochanowskiego, rękopis BN, 
+sygn. BOZ 1393, [w:] J. Kochanowski, Dzieła 
+wszystkie, t. VII, cz. 2, Wrocław 1977. 
+Pobór 
+Pobór pogłówny na sejmie walnym koronnym 
+warszwskim roku 1590 uchwalony, [w:] Kon- 
+stytucje, Kraków 1590 [zob. Konst]. 
+PociejAntir 
+[H. Pociej], Antirresis abo apologia przeciwko 
+Krzysztofowi Filaletowi, Wilno 1600. 
+PoklPogrom 
+S. Poklatecki, Pogrom czarnoksięskie błędy, 
+latawców zdrady i alchimickie fałsze jako roz- 
+prasza, Kraków 1595. 
+PoklSnów 
+S. Poklatecki, Snów dobrych obronę, a szkod- 
+liwych przestrogę ... wydał, Kraków 1594. 
+PorozumPowod Porozumienie kalwinistów franuskich z prote- 
+stanty niemieckimi, [tłum. H. Powodowski], 
+Poznań 1585. 
+PosPol 
+Postylla polska, to jest lekcje, epistoły i ewan- 
+gelie niedzielne, postne, Królewiec 1581. 
+PostępekPrCzart Postępek prawa czartowskiego przeciw naro- 
+dowi ludzkiemu, Brześć 1570. 
+Potkanie 
+Potkanie Jannasa z Gregoriasem klechą, Kra- 
+ków 1598. 
+Potwierdz 
+Potwierdzenie przywilejów koronnych, (Kra- 
+ków ok. 1550). 
+PowKlasztŁys 
+Powieść rzeczy istej o założeniu klasztora na 
+Łysej Górze, (Kraków ok. 1538), wyd. 2, Kra- 
+ków b.r. 
+PowodDysp 
+H. Powodowski, Dysputacja odprawowana 
+dnia 27 grudnia 1581, (Kraków 1586). 
+PowodKat 
+H. Powodowski, Katechizm kościoła powsze- 
+chnego, Poznań 1577. 
+PowodKaz 
+H. Powodowski, Kazania niektóre o szczyrym 
+słowie bożym, Poznań 1578. 
+PowodKorab 
+H. Powodowski, Korab zewnętrznego potopu, 
+czyli sposób zbawienny przeciw zbytkom w je- 
+dzeniu i piciu, Kraków 1578. 
+PowodSkarb 
+H. Powodowski, Skarbnica Biblii świętej, Po- 
+znań 1577. 
+PowodWędz 
+H. Powodowski, Wędzidło na sprosne błędy a 
+bluźnierstwa nowych arianów, Poznań 1582. 
+Pozdraw 
+Pozdrawianie wszystkich członków Pana Jezu- 
+sowych, Kraków 1533. 
+PrawKrak 
+Prawa, przywileje i statuta miasta Krakowa, 
+wyd. F. Piekosiński, t. I, Kraków 1885. 
+ProbPrakt 
+P. Proboszczowic, Praktyka na rok 1555, Kra- 
+ków (1554). 
+ProbPrzejrz 
+P. Proboszczowic, Przejrzenie przygód świat- 
+skich na rok 1547, Kraków (1546). 
+Prognostyk 
+Prognostyk na rok 1543, Kraków (1542/43), 
+(Kraków) 1546. 
+ProjektEgzek 
+J. Seredyka, Nie znany projekt egzekucji kon- 
+federacji warszawskiej, „Odrodzenie i Refor- 
+macja w Polsce” XX, 1975. 
+ProtJałm 
+J. Protasowicz, Jałmużnik, Wilno 1597. 
+ProtKonterfet 
+J. Protasowicz, Konterfet człowieka starego, 
+b.m. 1597. 
+ProtokWoźnik 
+Protokolarz miasta Woźnik, oprac. L. Musioł i 
+S. Rospond, Wrocław 1972. 
+PrzechOkaz 
+K. Przechadzka, Okazanie, iż Krystus pośre- 
+dnikiem jest Boga i ludzi, (Kraków 1560). 
+PrzestrObr 
+Przestroga i obrona ... uczyniona imieniem 
+wszystkich ewanjelików, (Kraków) 1597. 
+PrzykBoż 
+Przykazanie boże, Kraków 1545. 
+PrzylDysp 
+J. Przylepski, Dysputacja lubelska ks. Adriana 
+Radzymińskiego ... z Statoriuszem, ministrem 
+nowokrzczeńskim, Kraków 1592. 
+PrzywPozn 
+Przywileje miasta Poznania XIII–XVIII wieku, 
+wyd. W. Maisel, Poznań 1994. 
+PsKrak 1532, 1535 Psałterz albo kościelne śpiewanie króla Dawi- 
+da, (Kraków) 1532, Kraków 1535. 
+PussHist 
+K. Pussman, Historia barzo cudna ... o stwo- 
+rzeniu nieba i ziemie, Kraków 1551. 
+RachBonera 
+Rachunki generalne Seweryna Bonera 1545, 
+1545, 1558 
+wyd.O. Łaszczyńska, Kraków 1955; Rachunki 
+wielkorządowe Jana Bonera 1558, oprac. J. 
+Garbacik, Kraków 1974. 
+RachBudZam 
+Rachunki budowy zamku krakowskiego 1535, 
+wyd. O. Łaszczyńska, Kraków 1952. 
+RachDworu 
+Rachunki dworu królewskiego 1544–1567, 
+[w:] „Źródła do Historii Sztuki i Cywilizacji w 
+Polsce”, t. I, wyd. A. Chmiel, Kraków 1911. 
+RadzPodróż 
+M. K. Radziwiłł „Sierotka”, Podróże do Ziemi 
+Świętej, Syrii i Egiptu 1582–1584, oprac. L. 
+Kukulski, Warszawa 1962. 
+Reces 
+Reces graniczny między Wielkopolską a Księ- 
+stwem Głogowskim z roku 1528–1531, wyd. 
+Z. Celichowski, Poznań 1900. 
+Refut 
+Refutacja książek, które ks. Jakub Wujek je- 
+zuita wydał, (Kraków) 1593. 
+RegJezior 
+K. O. Falk, Regestr spisania jezior ... roku 
+1569, „Acta Baltico-Slavica” X, 1976. 
+RegThel 
+Regestra thelonei aquatici Wladislaviensis saecu- 
+li XVI, wyd. S. Kutrzeba i F. Duda, Kraków 1915. 
+RegułaKlon 
+Reguła błogosławionego i Bogu upodobanego 
+ojca Benedykta ś., [tłum. S. F. Klonowic], Kra- 
+ków 1597. 
+RejestrBudGal 
+Rejestr budowy galeony. Zabytek z r. 1572, 
+wyd. A. Kleczkowski, Kraków 1915. 
+RejFig 1574 
+M. Rej, Figliki ... teraz nowo drukowane, Kra- 
+ków 1574. 
+RejKat 
+(M. Rej), Katechismus, to jest nauka barzo po- 
+żyteczna każdemu wiernemu krześcijaninowi, 
+Kraków 1543. 
+RelacSzwec 
+M.Biskup,CzterypolskierelacjezeSzwecjizkońca 
+XVIwieku,„PrzeglądHistoryczny”LXI,z.4,1970. 
+Respons 
+Respons ... na Upominanie do ewangelików o zbu- 
+rzeniu zboru krakowskiego ... w roku 1592, [autor 
+M. Broniewski (?)], (Toruń m. 1592–1595). 
+ReuchlinBartBydg J. Reuchlin, Vocabularius breviloquus, Argen- 
+tine 1488. (Glosy Bartłomieja z Bydgoszczy 
+– 1544). 
+RodzajLutera 
+Rodzaj albo potomstwo Marcina Lutera, b.m. 
+1561. 
+RotRozm 
+A. Rotundus, Rozmowa Polaka z Litwinem, 
+b.m. (ok. 1565). 
+RozmSzat 
+Rozmowa szatana z grzesznikiem, Królewiec 
+ok. 1549. 
+RozprKsiędza 
+Rozprawa księdza z popem, Królewiec ok. 
+1549. 
+RybWiersze 
+J. Rybiński, Wiersze polskie, oprac. Z. Nowak 
+i A. Świderska, Gdańsk 1968. 
+RybWierszeŻałob J. Rybiński, Wiersze żałobliwe, Toruń 1583. 
+RybWios 
+J. Rybiński, Wiosna, (Toruń) 1599. 
+RymszaChor 
+A. Rymsza, Chorografia albo topografia ... Zie- 
+mie Świętej ... z łacińskiego języka na polski 
+przetłumaczona, Wilno 1585. 
+RymszaDeket 
+A. Rymsza, Deketeros Akroama, to jest Dzie- 
+sięćroczna powieść wojennych spraw Oświe- 
+conego Książęcia i Pana, Pana Krzysztofa 
+Radziwiła, Wilno 1585. 
+RywKsięgi 
+M. Rywocki, Księgi peregrynackie (1584– 
+–1587), wyd. J. Czubek, [w:] „Archiwum do 
+Dziejów Literatury i Oświaty w Polsce”, t. XII, 
+Kraków 1910. 
+SandMalEwan 
+J. Sandecki-[Malecki], Ewangeliarz, (Kraków 
+1527/28), wyd. J. Janów, Kraków 1947. 
+SądParysa 
+Sąd Parysa, Kraków 1542. 
+SchneebAnt 
+A. Schneeberger, Książki o zachowaniu zdro- 
+wia, [tłum. J. Antonin], Kraków 1569. 
+SchottVita 
+H. Schotten, Vita honesta sive virtutis, O cno- 
+cie abo żywocie człowiekowi przystojnym, 
+b.m. i r. 
+SeklStudent 
+J. Seklucjan, Student. Rozprawa krótka a pro- 
+sta o niektórych ceremoniach i ustawach ko- 
+ścielnych, Królewiec ok. 1549, wyd. W. R. 
+Rzepka i W. Wydra, Kórnik 1994. 
+SenatDelib 
+Senatora Anonima Deliberacje o królu, panach 
+radzie [1569, w:] Sześć broszur politycznych z 
+XVI i początku XVII stulecia, wyd. B. Ula- 
+nowski, Kraków 1921. 
+Senatulus 
+Senatulus, to jest sjem niewieści, (Kraków 
+1543), wyd. K. Badecki, „Pamiętnik Literacki” 
+XLIII 1952. 
+SenekaGórn 
+L. A. Seneka, Rzecz o dobrodziejstwach, 
+[tłum. Ł. Górnicki], Kraków 1593. 
+SenekaMymer 
+L. A. Seneka, Formula honestae vitae, [tłum. F. 
+Mymer], Kraków 1532, 1541. 
+Sentencja 
+Sentencja cuiusdam de electione regis Polono- 
+rum, b.m. i r. 
+SienHerb 
+M. Siennik, Herbarz, Kraków 1568. 
+SienHerbSzarff jw., przedmowa M. Szarffenberga. 
+SkarBrac 
+P. Skarga, Bractwo Miłosierdzia, (Kraków 
+1588). 
+SkarCzyt 
+P. Skarga, Czytanie Bractwa Miłosierdzia, 
+(Kraków 1588). 
+SkarFil 
+P. Skarga, Siedm filarów, na których stoi kato- 
+licka nauka o Przenajświętszym Sakramencie 
+Ołtarza, Wilno 1582. 
+SkarSynod 
+P. Skarga, Synod brzeski, Kraków 1597. 
+SkarUp 
+P. Skarga, Upominanie do ewangelików, Po- 
+znań 1592. 
+SkarżyńKaz 
+Sz. Skarżyński, Kazanie na obsekwiach żałob- 
+nych królewny ... Katarzyny Jagiełłówny, Kra- 
+ków 1584. 
+SkarŻyw 1585, 1592 P. Skarga, Żywoty świętych, Kraków 1585, 
+1592. 
+SłownicKsiąg- 
+E. Breza, Słownictwo rękopiśmiennych ksiąg 
+SądKościer 
+sądowych kościerskich z XVI–XVIII w., „Gdań- 
+skie Studia Językoznawcze” II, Gdańsk 1979. 
+Słownicz 
+W. R. Rzepka, W. Wydra, Dwie staropolskie 
+próby leksykograficzne z XV i XVI wieku. 
+[Szesnastowieczny słowniczek do Psałterza], 
+„Studia Polonistyczne” XIII, 1985. 
+
+PowodKorab 
+H. Powodowski, Korab zewnętrznego potopu, 
+czyli sposób zbawienny przeciw zbytkom w je- 
+dzeniu i piciu, Kraków 1578. 
+PowodSkarb 
+H. Powodowski, Skarbnica Biblii świętej, Po- 
+znań 1577. 
+PowodWędz 
+H. Powodowski, Wędzidło na sprosne błędy a 
+bluźnierstwa nowych arianów, Poznań 1582. 
+Pozdraw 
+Pozdrawianie wszystkich członków Pana Jezu- 
+sowych, Kraków 1533. 
+PrawKrak 
+Prawa, przywileje i statuta miasta Krakowa, 
+wyd. F. Piekosiński, t. I, Kraków 1885. 
+ProbPrakt 
+P. Proboszczowic, Praktyka na rok 1555, Kra- 
+ków (1554). 
+ProbPrzejrz 
+P. Proboszczowic, Przejrzenie przygód świat- 
+skich na rok 1547, Kraków (1546). 
+Prognostyk 
+Prognostyk na rok 1543, Kraków (1542/43), 
+(Kraków) 1546. 
+ProjektEgzek 
+J. Seredyka, Nie znany projekt egzekucji kon- 
+federacji warszawskiej, „Odrodzenie i Refor- 
+macja w Polsce” XX, 1975. 
+ProtJałm 
+J. Protasowicz, Jałmużnik, Wilno 1597. 
+ProtKonterfet 
+J. Protasowicz, Konterfet człowieka starego, 
+b.m. 1597. 
+ProtokWoźnik 
+Protokolarz miasta Woźnik, oprac. L. Musioł i 
+S. Rospond, Wrocław 1972. 
+PrzechOkaz 
+K. Przechadzka, Okazanie, iż Krystus pośre- 
+dnikiem jest Boga i ludzi, (Kraków 1560). 
+PrzestrObr 
+Przestroga i obrona ... uczyniona imieniem 
+wszystkich ewanjelików, (Kraków) 1597. 
+PrzykBoż 
+Przykazanie boże, Kraków 1545. 
+PrzylDysp 
+J. Przylepski, Dysputacja lubelska ks. Adriana 
+Radzymińskiego ... z Statoriuszem, ministrem 
+nowokrzczeńskim, Kraków 1592. 
+PrzywPozn 
+Przywileje miasta Poznania XIII–XVIII wieku, 
+wyd. W. Maisel, Poznań 1994. 
+PsKrak 1532, 1535 Psałterz albo kościelne śpiewanie króla Dawi- 
+da, (Kraków) 1532, Kraków 1535. 
+PussHist 
+K. Pussman, Historia barzo cudna ... o stwo- 
+rzeniu nieba i ziemie, Kraków 1551. 
+RachBonera 
+Rachunki generalne Seweryna Bonera 1545, 
+1545, 1558 
+wyd.O. Łaszczyńska, Kraków 1955; Rachunki 
+wielkorządowe Jana Bonera 1558, oprac. J. 
+Garbacik, Kraków 1974. 
+RachBudZam 
+Rachunki budowy zamku krakowskiego 1535, 
+wyd. O. Łaszczyńska, Kraków 1952. 
+RachDworu 
+Rachunki dworu królewskiego 1544–1567, 
+[w:] „Źródła do Historii Sztuki i Cywilizacji w 
+Polsce”, t. I, wyd. A. Chmiel, Kraków 1911. 
+RadzPodróż 
+M. K. Radziwiłł „Sierotka”, Podróże do Ziemi 
+Świętej, Syrii i Egiptu 1582–1584, oprac. L. 
+Kukulski, Warszawa 1962. 
+Reces 
+Reces graniczny między Wielkopolską a Księ- 
+stwem Głogowskim z roku 1528–1531, wyd. 
+Z. Celichowski, Poznań 1900. 
+Refut 
+Refutacja książek, które ks. Jakub Wujek je- 
+zuita wydał, (Kraków) 1593. 
+RegJezior 
+K. O. Falk, Regestr spisania jezior ... roku 
+1569, „Acta Baltico-Slavica” X, 1976. 
+RegThel 
+Regestra thelonei aquatici Wladislaviensis saecu- 
+li XVI, wyd. S. Kutrzeba i F. Duda, Kraków 1915. 
+RegułaKlon 
+Reguła błogosławionego i Bogu upodobanego 
+ojca Benedykta ś., [tłum. S. F. Klonowic], Kra- 
+ków 1597. 
+RejestrBudGal 
+Rejestr budowy galeony. Zabytek z r. 1572, 
+wyd. A. Kleczkowski, Kraków 1915. 
+RejFig 1574 
+M. Rej, Figliki ... teraz nowo drukowane, Kra- 
+ków 1574. 
+RejKat 
+(M. Rej), Katechismus, to jest nauka barzo po- 
+żyteczna każdemu wiernemu krześcijaninowi, 
+Kraków 1543. 
+RelacSzwec 
+M.Biskup,CzterypolskierelacjezeSzwecjizkońca 
+XVIwieku,„PrzeglądHistoryczny”LXI,z.4,1970. 
+Respons 
+Respons ... na Upominanie do ewangelików o zbu- 
+rzeniu zboru krakowskiego ... w roku 1592, [autor 
+M. Broniewski (?)], (Toruń m. 1592–1595). 
+ReuchlinBartBydg J. Reuchlin, Vocabularius breviloquus, Argen- 
+tine 1488. (Glosy Bartłomieja z Bydgoszczy 
+– 1544). 
+RodzajLutera 
+Rodzaj albo potomstwo Marcina Lutera, b.m. 
+1561. 
+RotRozm 
+A. Rotundus, Rozmowa Polaka z Litwinem, 
+b.m. (ok. 1565). 
+RozmSzat 
+Rozmowa szatana z grzesznikiem, Królewiec 
+ok. 1549. 
+RozprKsiędza 
+Rozprawa księdza z popem, Królewiec ok. 
+1549. 
+RybWiersze 
+J. Rybiński, Wiersze polskie, oprac. Z. Nowak 
+i A. Świderska, Gdańsk 1968. 
+RybWierszeŻałob J. Rybiński, Wiersze żałobliwe, Toruń 1583. 
+RybWios 
+J. Rybiński, Wiosna, (Toruń) 1599. 
+RymszaChor 
+A. Rymsza, Chorografia albo topografia ... Zie- 
+mie Świętej ... z łacińskiego języka na polski 
+przetłumaczona, Wilno 1585. 
+RymszaDeket 
+A. Rymsza, Deketeros Akroama, to jest Dzie- 
+sięćroczna powieść wojennych spraw Oświe- 
+conego Książęcia i Pana, Pana Krzysztofa 
+Radziwiła, Wilno 1585. 
+RywKsięgi 
+M. Rywocki, Księgi peregrynackie (1584– 
+–1587), wyd. J. Czubek, [w:] „Archiwum do 
+Dziejów Literatury i Oświaty w Polsce”, t. XII, 
+Kraków 1910. 
+SandMalEwan 
+J. Sandecki-[Malecki], Ewangeliarz, (Kraków 
+1527/28), wyd. J. Janów, Kraków 1947. 
+SądParysa 
+Sąd Parysa, Kraków 1542. 
+SchneebAnt 
+A. Schneeberger, Książki o zachowaniu zdro- 
+wia, [tłum. J. Antonin], Kraków 1569. 
+SchottVita 
+H. Schotten, Vita honesta sive virtutis, O cno- 
+cie abo żywocie człowiekowi przystojnym, 
+b.m. i r. 
+SeklStudent 
+J. Seklucjan, Student. Rozprawa krótka a pro- 
+sta o niektórych ceremoniach i ustawach ko- 
+ścielnych, Królewiec ok. 1549, wyd. W. R. 
+Rzepka i W. Wydra, Kórnik 1994. 
+SenatDelib 
+Senatora Anonima Deliberacje o królu, panach 
+radzie [1569, w:] Sześć broszur politycznych z 
+XVI i początku XVII stulecia, wyd. B. Ula- 
+nowski, Kraków 1921. 
+Senatulus 
+Senatulus, to jest sjem niewieści, (Kraków 
+1543), wyd. K. Badecki, „Pamiętnik Literacki” 
+XLIII 1952. 
+SenekaGórn 
+L. A. Seneka, Rzecz o dobrodziejstwach, 
+[tłum. Ł. Górnicki], Kraków 1593. 
+SenekaMymer 
+L. A. Seneka, Formula honestae vitae, [tłum. F. 
+Mymer], Kraków 1532, 1541. 
+Sentencja 
+Sentencja cuiusdam de electione regis Polono- 
+rum, b.m. i r. 
+SienHerb 
+M. Siennik, Herbarz, Kraków 1568. 
+SienHerbSzarff jw., przedmowa M. Szarffenberga. 
+SkarBrac 
+P. Skarga, Bractwo Miłosierdzia, (Kraków 
+1588). 
+SkarCzyt 
+P. Skarga, Czytanie Bractwa Miłosierdzia, 
+(Kraków 1588). 
+SkarFil 
+P. Skarga, Siedm filarów, na których stoi kato- 
+licka nauka o Przenajświętszym Sakramencie 
+Ołtarza, Wilno 1582. 
+SkarSynod 
+P. Skarga, Synod brzeski, Kraków 1597. 
+SkarUp 
+P. Skarga, Upominanie do ewangelików, Po- 
+znań 1592. 
+SkarżyńKaz 
+Sz. Skarżyński, Kazanie na obsekwiach żałob- 
+nych królewny ... Katarzyny Jagiełłówny, Kra- 
+ków 1584. 
+SkarŻyw 1585, 1592 P. Skarga, Żywoty świętych, Kraków 1585, 
+1592. 
+SłownicKsiąg- 
+E. Breza, Słownictwo rękopiśmiennych ksiąg 
+SądKościer 
+sądowych kościerskich z XVI–XVIII w., „Gdań- 
+skie Studia Językoznawcze” II, Gdańsk 1979. 
+Słownicz 
+W. R. Rzepka, W. Wydra, Dwie staropolskie 
+próby leksykograficzne z XV i XVI wieku. 
+[Szesnastowieczny słowniczek do Psałterza], 
+„Studia Polonistyczne” XIII, 1985. 
+SocGrzeg 
+F. Socyn, Wykład na pirwszą kapitułę Jana 
+Świętego ewangelijej, [tłum. Grzegorz Paweł z 
+Brzezin], (Kraków 1568). 
+SokołJanPoseł 
+S. Sokołowski, Poseł wielki o wcieleniu Syna 
+Bożego, [tłum. J. Januszowski], Kraków 1590. 
+SokołJanSzaf 
+S. Sokołowski, Szafarz abo o pohamowaniu 
+utrat niepotrzebnych dialog, [tłum. J. Janu- 
+szowski], Kraków 1589. 
+SokołSigon 
+S. Sokołowski, O czci i chwale Pana Chrystusa 
+w Naświętszym Sakramencie ... kazanie, [tłum. 
+M. D. Sigonius], Kraków 1590. 
+SolikLukr 
+J. D. Solikowski, Lukrecja rzymska i chrześci- 
+jańska, b.m. (ok. 1570). 
+SolikRozsąd 
+J. D. Solikowski, Rozsądek o warszawskich spra- 
+wach na elekcjej przeszłej, Kraków (ok. 1574). 
+SolikZiem 
+J. D. Solikowski, Ziemianin, Kraków 1565. 
+SpiczZioł 
+H. Spiczyński, O ziołach tutecznych i zamor- 
+skich ... księgi lekarskie, Kraków 1542, 1556. 
+SprChęd 
+Sprawa chędoga o męce Pana Chrystusowej i 
+Ewangelia Nikodema [1544], wyd. S. Vrtel- 
+-Wierczyński, Poznań 1933. 
+SprLek 
+Sprawa a lekarstwa końskie przez Konrada 
+królewskiego kowala doświadczone, Kraków 
+1532. 
+StatCechBydg 
+Statuty i przywileje cechów bydgoskich z lat 
+1434–1770, wyd. T. Esman i Z. Guldon, Byd- 
+goszcz 1963. 
+StatCechKon 
+W. Maisel, Statuty cechów konińskich z XV– 
+–XVIII w., „Rocznik Koniński” VI, 1978. 
+StatNorb 
+Statuty kapituły norbertańskiej z r. 1340 w tłu- 
+maczeniu polskim z r. 1541, wyd. M. Karaś, Z. 
+Perzanowski, Kraków 1970. 
+StatorGramm 
+P. Statorius (Stojeński), Polonicae grammatices 
+institutio, Kraków 1568. 
+StokWąchHist 
+J. Stok Wąchocczyk, Historia barzo cudna o 
+przyjaźni a uprzejmej miłości Tytusa z Gizypu- 
+sem, Kraków 1564. 
+StryjGoniec 
+M. Stryjkowski, Goniec cnoty, Kraków 1574. 
+StryjNiewol 
+M. Stryjkowski, O niewoli tureckiej, Kraków 
+1587. 
+StryjPocząt 
+M. Stryjkowski, O początkach ... sławnego na- 
+rodu litewskiego, żemojdzkiego i ruskiego, op- 
+rac. J. Radziszewska, Warszawa 1978. 
+StryjWoln 
+M. Stryjkowski, O wolności Korony Polskiej, 
+Kraków 1587. 
+SulpMymer 
+I. Sulpitius Verulanus, De moribus puerorum 
+carmen iuvenile, [tłum. F. Mymer], Kraków 
+1533. 
+SzczerbIus 
+P. Szczerbic, Ius municipale, to jest prawo 
+miejskie majdeburskie, Lwów 1581. 
+SzczerbSpecSax P. Szczerbic, Speculum Saxonum albo prawo 
+saskie i majdeburskie, Lwów 1581. 
+SzymŁowEnch 
+Szymon z Łowicza, Enchiridion medicinae, 
+Kraków 1537. 
+ŚmiglAbsurda 
+M. Śmiglecki, Absurda synodu toruńskiego, 
+(Wilno) 1596. 
+ŚmiglLichwa 
+M. Śmiglecki, O lichwie, Wilno 1596. 
+ŚmiglŁup 
+M. Śmiglecki, Łupieże martwe skryptu Marci- 
+na Gratiana, Wilno 1599. 
+ŚwirPasiecz 
+G. Świrski, Pasiecznik (1575–1584), wyd. S. 
+Seliga, „Prace Filologiczne” XI, 1927. 
+TarnConsil 
+J. Tarnowski, Consilium rationis bellicae, Tar- 
+nów 1558, wyd. homogr. A. Pilińskiego, Po- 
+znań 1879. 
+TarnUst 
+J. Tarnowski, Ustawy prawa ziemskiego pol- 
+skiego, Kraków 1579. 
+TaryfaCen 
+Taryfa cen dla województwa krakowskiego z 
+r. 1565, wyd. F. Bostel, „Archiwum Komisji 
+Historycznej” VI, Kraków 1891. 
+TekstyPol 
+W. Wydra, W. R. Rzepka, Teksty polskie z 
+pierwszej połowy XVI wieku, „Slavia Occi- 
+dentalis” 35, 1978; 36, 1979; 37, 1980. 
+TerentMatKęt 
+Mateusz z Kęt, Ex P. Terentii „Comoediis” La- 
+tinissimae colloquiorum formulae ... idiomate 
+Polonico donatae, Kraków 1545. 
+TestEwang 
+U. Augustyniak, Testamenty ewangelików re- 
+formowanych w Wielkim Księstwie Litew- 
+skim, Warszawa 1992. 
+TestZygmAug 
+Testament Zygmunta Augusta, oprac. A. Fra- 
+naszek, O. Łaszczyńska i S. E. Nahlik, Kraków 
+1975. 
+ThamTrakt 
+A. Thamnitius, Traktat ... na czas ... narodzenia 
+Syna Bożego, Toruń 1597. 
+Tobias 
+Tobias, patriarcha Starego Zakonu, Kraków 
+1539. 
+TomkHistMuz 
+S. Tomkowicz, Do historii muzyki w Krako- 
+wie, „Rocznik Krakowski” IX, 1907. 
+TomZbrudzAp 
+Apokalipsa św. Jana w przekładzie Tomasza ze 
+Zbrudzewa [1555], oprac. I. Kwilecka, Wroc- 
+ław 1976. 
+TomZbrudzBrul Brulion przekładu pierwszych trzech ksiąg 
+Biblii pióra Tomasza ze Zbrudzewa [1549], 
+oprac. I. Kwilecka, Wrocław 1971; Brulion 
+przekładu Biblii pióra Tomasza ze Zbrudzewa, 
+cz. II, oprac. I. Kwilecka, Wrocław 1995. 
+TomZbrudzPeryk Perykopy wielkopostne w przekładzie Toma- 
+sza Łysego ze Zbrudzewa [1551], oprac. I. 
+Kwilecka, Wrocław 1967. 
+TragŻebr 
+Tragedia żebracza nowo uczyniona, Kraków 
+1552. 
+TraktKom 
+Traktat przeciwko komunistom morawskim 
+[ok. 1570, w:] Filozofia i myśl społeczna XVI 
+wieku, oprac. L. Szczucki, Warszawa 1978. 
+TraktPosel 
+Traktat różnych poselstw lubelskich i odprawa 
+ich przez jednego szlachcica, Kraków 1592. 
+TrzecPis 
+A. Trzecieski, Pisma polskie, cz. I–II, oprac. S. 
+Bąk, Wrocław 1961. 
+TurnZwierc 
+Sz. T. Turnowski, Zwierciadło nabożeństwa 
+chrześcijańskiego w Polszcze, Wilno 1594. 
+UchańList 
+J. Uchański, O miłościwym lecie list, Wilno 
+1576. 
+UniwPobor 
+Uniwersał poborowy, [w:] Konstytucje, Kra- 
+1564–1581 
+ków 1581 [zob. Konst]. 
+UniwPobor 
+Uniwersał poborowy, Kraków 1588, 1589, 
+1588–1593 
+1591, 1593. 
+UniwPodwod 
+Uniwersał podwodny warszawski roku 1564, 
+[w:] Konstytucje, Kraków 1581 [zob. Konst]. 
+UrsinGramm 
+J. Ursinus, Methodicae grammaticae libri qua- 
+tuor, Lwów 1592. 
+UrzędowHerb 
+Marcin z Urzędowa, Herbarz polski, Kraków 
+1595. 
+UstKościel 
+Ustawa albo porząd kościelny w Księstwie 
+Pruskim, [tłum. H. Malecki], Królewiec 1560. 
+UstPraw 1579 
+J. Palczowski, Ustawy prawa polskiego ziem- 
+skiego, Kraków 1579. 
+UstWojsk 
+S. Kutrzeba, Polskie ustawy i artykuły wojsko- 
+we od XV do XVIII wieku, Kraków 1937. 
+VegKmita 
+M. Vegius, O Eneaszu trojańskim księgi trzy- 
+naste, [tłum. J. A. Kmita], Kraków 1591. 
+VergKoch 
+P. M. Vergilius, Aeneida, to jest o Eneaszu tro- 
+jańskim ksiąg dwanaście, [tłum. A. Kochanow- 
+ski], Kraków 1590. 
+Volck 
+M. Volckmar, Dictionarium trilingue triparti- 
+tum, Gdańsk 1596. 
+WajsProgn 
+M. Wajs, Prognosticon z nauki gwiazdarskiej, 
+(Kraków) 1572. 
+WannPrakt 
+W. Wannius, Praktyka o mszy, [tłum. W. No- 
+womiejski], Królewiec 1559. 
+WarszBog 
+K. Warszewicki, O śmierci Anny Rakuszanki ... 
+oracja, [tłum. J. Bogusławski], Kraków 1599. 
+WarszWenec 
+K. Warszewicki, Wenecja, Kraków 1572. 
+Wawel 
+Wawel, t. II, Materiały archiwalne do budowy 
+zamku, wyd. A. Chmiel, [w:] Teka grona Kon- 
+serwatorów Galicji Zachodniej, t. V, Kraków 
+1913. 
+WerEkscyt 
+J. Wereszczyński, Ekscytarz do podniesienia 
+wojny świętej przeciwko Turkom i Tatarom, 
+Kraków 1592. 
+WergerRej 
+P. P. Wergeriusz, Dwa listy na polski język wy- 
+łożone, [tłum. M. Rej], Brześć 1559. 
+
+SocGrzeg 
+F. Socyn, Wykład na pirwszą kapitułę Jana 
+Świętego ewangelijej, [tłum. Grzegorz Paweł z 
+Brzezin], (Kraków 1568). 
+SokołJanPoseł 
+S. Sokołowski, Poseł wielki o wcieleniu Syna 
+Bożego, [tłum. J. Januszowski], Kraków 1590. 
+SokołJanSzaf 
+S. Sokołowski, Szafarz abo o pohamowaniu 
+utrat niepotrzebnych dialog, [tłum. J. Janu- 
+szowski], Kraków 1589. 
+SokołSigon 
+S. Sokołowski, O czci i chwale Pana Chrystusa 
+w Naświętszym Sakramencie ... kazanie, [tłum. 
+M. D. Sigonius], Kraków 1590. 
+SolikLukr 
+J. D. Solikowski, Lukrecja rzymska i chrześci- 
+jańska, b.m. (ok. 1570). 
+SolikRozsąd 
+J. D. Solikowski, Rozsądek o warszawskich spra- 
+wach na elekcjej przeszłej, Kraków (ok. 1574). 
+SolikZiem 
+J. D. Solikowski, Ziemianin, Kraków 1565. 
+SpiczZioł 
+H. Spiczyński, O ziołach tutecznych i zamor- 
+skich ... księgi lekarskie, Kraków 1542, 1556. 
+SprChęd 
+Sprawa chędoga o męce Pana Chrystusowej i 
+Ewangelia Nikodema [1544], wyd. S. Vrtel- 
+-Wierczyński, Poznań 1933. 
+SprLek 
+Sprawa a lekarstwa końskie przez Konrada 
+królewskiego kowala doświadczone, Kraków 
+1532. 
+StatCechBydg 
+Statuty i przywileje cechów bydgoskich z lat 
+1434–1770, wyd. T. Esman i Z. Guldon, Byd- 
+goszcz 1963. 
+StatCechKon 
+W. Maisel, Statuty cechów konińskich z XV– 
+–XVIII w., „Rocznik Koniński” VI, 1978. 
+StatNorb 
+Statuty kapituły norbertańskiej z r. 1340 w tłu- 
+maczeniu polskim z r. 1541, wyd. M. Karaś, Z. 
+Perzanowski, Kraków 1970. 
+StatorGramm 
+P. Statorius (Stojeński), Polonicae grammatices 
+institutio, Kraków 1568. 
+StokWąchHist 
+J. Stok Wąchocczyk, Historia barzo cudna o 
+przyjaźni a uprzejmej miłości Tytusa z Gizypu- 
+sem, Kraków 1564. 
+StryjGoniec 
+M. Stryjkowski, Goniec cnoty, Kraków 1574. 
+StryjNiewol 
+M. Stryjkowski, O niewoli tureckiej, Kraków 
+1587. 
+StryjPocząt 
+M. Stryjkowski, O początkach ... sławnego na- 
+rodu litewskiego, żemojdzkiego i ruskiego, op- 
+rac. J. Radziszewska, Warszawa 1978. 
+StryjWoln 
+M. Stryjkowski, O wolności Korony Polskiej, 
+Kraków 1587. 
+SulpMymer 
+I. Sulpitius Verulanus, De moribus puerorum 
+carmen iuvenile, [tłum. F. Mymer], Kraków 
+1533. 
+SzczerbIus 
+P. Szczerbic, Ius municipale, to jest prawo 
+miejskie majdeburskie, Lwów 1581. 
+SzczerbSpecSax P. Szczerbic, Speculum Saxonum albo prawo 
+saskie i majdeburskie, Lwów 1581. 
+SzymŁowEnch 
+Szymon z Łowicza, Enchiridion medicinae, 
+Kraków 1537. 
+ŚmiglAbsurda 
+M. Śmiglecki, Absurda synodu toruńskiego, 
+(Wilno) 1596. 
+ŚmiglLichwa 
+M. Śmiglecki, O lichwie, Wilno 1596. 
+ŚmiglŁup 
+M. Śmiglecki, Łupieże martwe skryptu Marci- 
+na Gratiana, Wilno 1599. 
+ŚwirPasiecz 
+G. Świrski, Pasiecznik (1575–1584), wyd. S. 
+Seliga, „Prace Filologiczne” XI, 1927. 
+TarnConsil 
+J. Tarnowski, Consilium rationis bellicae, Tar- 
+nów 1558, wyd. homogr. A. Pilińskiego, Po- 
+znań 1879. 
+TarnUst 
+J. Tarnowski, Ustawy prawa ziemskiego pol- 
+skiego, Kraków 1579. 
+TaryfaCen 
+Taryfa cen dla województwa krakowskiego z 
+r. 1565, wyd. F. Bostel, „Archiwum Komisji 
+Historycznej” VI, Kraków 1891. 
+TekstyPol 
+W. Wydra, W. R. Rzepka, Teksty polskie z 
+pierwszej połowy XVI wieku, „Slavia Occi- 
+dentalis” 35, 1978; 36, 1979; 37, 1980. 
+TerentMatKęt 
+Mateusz z Kęt, Ex P. Terentii „Comoediis” La- 
+tinissimae colloquiorum formulae ... idiomate 
+Polonico donatae, Kraków 1545. 
+TestEwang 
+U. Augustyniak, Testamenty ewangelików re- 
+formowanych w Wielkim Księstwie Litew- 
+skim, Warszawa 1992. 
+TestZygmAug 
+Testament Zygmunta Augusta, oprac. A. Fra- 
+naszek, O. Łaszczyńska i S. E. Nahlik, Kraków 
+1975. 
+ThamTrakt 
+A. Thamnitius, Traktat ... na czas ... narodzenia 
+Syna Bożego, Toruń 1597. 
+Tobias 
+Tobias, patriarcha Starego Zakonu, Kraków 
+1539. 
+TomkHistMuz 
+S. Tomkowicz, Do historii muzyki w Krako- 
+wie, „Rocznik Krakowski” IX, 1907. 
+TomZbrudzAp 
+Apokalipsa św. Jana w przekładzie Tomasza ze 
+Zbrudzewa [1555], oprac. I. Kwilecka, Wroc- 
+ław 1976. 
+TomZbrudzBrul Brulion przekładu pierwszych trzech ksiąg 
+Biblii pióra Tomasza ze Zbrudzewa [1549], 
+oprac. I. Kwilecka, Wrocław 1971; Brulion 
+przekładu Biblii pióra Tomasza ze Zbrudzewa, 
+cz. II, oprac. I. Kwilecka, Wrocław 1995. 
+TomZbrudzPeryk Perykopy wielkopostne w przekładzie Toma- 
+sza Łysego ze Zbrudzewa [1551], oprac. I. 
+Kwilecka, Wrocław 1967. 
+TragŻebr 
+Tragedia żebracza nowo uczyniona, Kraków 
+1552. 
+TraktKom 
+Traktat przeciwko komunistom morawskim 
+[ok. 1570, w:] Filozofia i myśl społeczna XVI 
+wieku, oprac. L. Szczucki, Warszawa 1978. 
+TraktPosel 
+Traktat różnych poselstw lubelskich i odprawa 
+ich przez jednego szlachcica, Kraków 1592. 
+TrzecPis 
+A. Trzecieski, Pisma polskie, cz. I–II, oprac. S. 
+Bąk, Wrocław 1961. 
+TurnZwierc 
+Sz. T. Turnowski, Zwierciadło nabożeństwa 
+chrześcijańskiego w Polszcze, Wilno 1594. 
+UchańList 
+J. Uchański, O miłościwym lecie list, Wilno 
+1576. 
+UniwPobor 
+Uniwersał poborowy, [w:] Konstytucje, Kra- 
+1564–1581 
+ków 1581 [zob. Konst]. 
+UniwPobor 
+Uniwersał poborowy, Kraków 1588, 1589, 
+1588–1593 
+1591, 1593. 
+UniwPodwod 
+Uniwersał podwodny warszawski roku 1564, 
+[w:] Konstytucje, Kraków 1581 [zob. Konst]. 
+UrsinGramm 
+J. Ursinus, Methodicae grammaticae libri qua- 
+tuor, Lwów 1592. 
+UrzędowHerb 
+Marcin z Urzędowa, Herbarz polski, Kraków 
+1595. 
+UstKościel 
+Ustawa albo porząd kościelny w Księstwie 
+Pruskim, [tłum. H. Malecki], Królewiec 1560. 
+UstPraw 1579 
+J. Palczowski, Ustawy prawa polskiego ziem- 
+skiego, Kraków 1579. 
+UstWojsk 
+S. Kutrzeba, Polskie ustawy i artykuły wojsko- 
+we od XV do XVIII wieku, Kraków 1937. 
+VegKmita 
+M. Vegius, O Eneaszu trojańskim księgi trzy- 
+naste, [tłum. J. A. Kmita], Kraków 1591. 
+VergKoch 
+P. M. Vergilius, Aeneida, to jest o Eneaszu tro- 
+jańskim ksiąg dwanaście, [tłum. A. Kochanow- 
+ski], Kraków 1590. 
+Volck 
+M. Volckmar, Dictionarium trilingue triparti- 
+tum, Gdańsk 1596. 
+WajsProgn 
+M. Wajs, Prognosticon z nauki gwiazdarskiej, 
+(Kraków) 1572. 
+WannPrakt 
+W. Wannius, Praktyka o mszy, [tłum. W. No- 
+womiejski], Królewiec 1559. 
+WarszBog 
+K. Warszewicki, O śmierci Anny Rakuszanki ... 
+oracja, [tłum. J. Bogusławski], Kraków 1599. 
+WarszWenec 
+K. Warszewicki, Wenecja, Kraków 1572. 
+Wawel 
+Wawel, t. II, Materiały archiwalne do budowy 
+zamku, wyd. A. Chmiel, [w:] Teka grona Kon- 
+serwatorów Galicji Zachodniej, t. V, Kraków 
+1913. 
+WerEkscyt 
+J. Wereszczyński, Ekscytarz do podniesienia 
+wojny świętej przeciwko Turkom i Tatarom, 
+Kraków 1592. 
+WergerRej 
+P. P. Wergeriusz, Dwa listy na polski język wy- 
+łożone, [tłum. M. Rej], Brześć 1559. 
+WerPobudka 
+J. Wereszczyński, Pobudka na Jego Cesarską 
+Miłość do podniesienia wojny ... przeciw Tur- 
+kom i Tatarom, Kraków 1594. 
+WerPublika 
+J. Wereszczyński, Publika ... z strony fundo- 
+wania szkoły rycerskiej ... na Ukrainie, Kra- 
+ków 1594. 
+WerReguła 
+J. Wereszczyński, Reguła, Kraków 1587. 
+WerSposób 
+J. Wereszczyński, Sposób osady nowego Kijo- 
+wa, Kraków 1595. 
+WerVotum 
+J. Wereszczyński, Votum ... z strony podniesie- 
+nia wojny potężnej przeciwko cesarzowi turec- 
+kiemu ..., Nowy Wereszczyn 1597. 
+WerWiz 
+J. Wereszczyński, Wizerunk na kształt kazania 
+uczyniony, Kraków 1585. 
+WierzNauka 
+Prostych ludzi w wierze nauka, b.m. i r., „Pra- 
+ce Filologiczne” III, 1891. 
+WilkowPrzycz 
+K. Wilkowski, Przyczyny nawrócenia ... od sekt 
+nowokrzczeńców samosateńskich, Wilno 1583. 
+WilkPozn 
+Wilkierze poznańskie, cz. I–III, oprac. W. 
+Maisel, Wrocław 1966, 1968, 1969. 
+WirzbGosp 
+M. Wirzbięta, Gospodarstwo, (Kraków) 1596. 
+WiśnOkaz 
+S.Wiśniowski,[Okazanie sfałszowania i wyznanie 
+prawdziwej naukiPanaKrysta],(Lusławice)1572. 
+WizFałeczDucha Wizerunk fałecznego i ducha, i nauki, i pisma 
+tych to od Lutera począwszy aż do dzisiej- 
+szych nowoewangelików, Kraków 1561. 
+WizytGn 
+Wizytacje dóbr arcybiskupstwa gnieźnieńskie- 
+go i kapituły gnieźnieńskiej ... z XVI wieku, 
+wyd. B. Ulanowski, Kraków 1920. 
+WojAlg 
+B. Wojewódka, Algorytm, Kraków 1553, 1574. 
+Wokabul 1539 
+Wokabularz rozmaitych i potrzebnych senten- 
+cji polskim i niemieckim młodzieńcom na po- 
+żytek teraz zebranych, Kraków 1539. 
+WokabulŁacPol Wokabularz łacińsko-polski z połowy w. XVI, 
+wyd. J. Bystroń, „Prace Filologiczne” II, 1887. 
+WróbŻołt 1567 W. Wróbel, Żołtarz Dawidow, Kraków 1567. 
+WuchWiz 
+J. Leopolita Wuchaliusz, Wizerunk żywota 
+chrześcijańskiego pobożnego, Poznań 1584. 
+WujBib 
+J. Wujek, Biblia, Kraków 1599. 
+WujKośc 
+J. Wujek, O kościele Pana Chrystusowym 
+prawdziwym rozprawa, Poznań 1580. 
+WujPos 1573, 1575 J. Wujek, Postilla catolica, Kraków 1573; Po- 
+stylle katolicznej część trzecia, Kraków 1575. 
+WujPos 1579, 1590 J. Wujek, Postylle mniejszej część pierwsza 
+ozimia, Poznań 1579; Postylla katolicka mniej- 
+sza, Kraków 1590. 
+WujPosN 1584 
+J. Wujek, Postilla catholica ... Postylle katoli- 
+cznej na niedziele część I ozimia, część II let- 
+nia, Kraków 1584. 
+WujPosŚw 1584 jw., Postylle katolicznej o świętych część I ozi- 
+mia, część II letnia. 
+WysFortka 
+Sz. Wysocki, Fortka niebieska, to jest dzielne ćwi- 
+czenia żywota duchownego, Kraków 1588, 1599. 
+ZabModl 
+K. Górski, Modlitewny zabytek językowy z 
+1566 roku, [w:] Kultura i literatura dawnej Pol- 
+ski, Warszawa 1967. 
+ZachŻyw 
+Zachowanie żywota panieńskiego, Kraków 
+1530. 
+ZacWyzn 
+Sz. Zacjusz, Wyznanie wiary zboru wileńskie- 
+go, Brześć Litewski 1559. 
+ZapKrak 
+Zapiski krakowskie. Acta terrestria Cracovien- 
+sia z lat 1528–1562; rkps Archiwum Państwo- 
+we w Krakowie nr 29, 31, 189, 218, 219, 280, 
+322; – Biec: Acta castrensia Biecensia z lat 
+1543–1544; rkps Archiwum Państwowe w 
+Krakowie nr 9. 
+ZapWpol 
+Zapiski wielkopolskie; rkps Archiwum Pań- 
+stwowe w Poznaniu z lat 1529–1551; 
+– ActAdv: Acta advocatialia, nr 200, 202, 
+204–205; – ActCon: Acta consularia, nr 7–9, 
+12–14, 121–122; – Jutr: Księga wójt. Jutrosin, 
+nr 4; – Kob: Księga miejska Kobylina, nr 1; 
+– Kop: Księga miejska Kopanicy, nr 1; – Kośc: 
+Księga miejska Kościana, nr 1, 8, 9. 
+ZbylAkteon 
+A. Zbylitowski, [Akteon] (przekład fragmentu 
+3. księgi Przemian Owidiusza), Kraków 1588, 
+wyd. K. Młynarz: „Pamiętnik Biblioteki Kór- 
+nickiej”, z. 8, Kórnik 1963. 
+ZbylDroga 
+A. Zbylitowski, Droga do Szwecjej, Kraków 
+1597. 
+ZbylEpit 
+A. Zbylitowski, Epitalamium na wesele ... 
+Zygmuntowi III, Kraków 1592. 
+ZbylLamenty 
+A. Zbylitowski, Lamenty na żałosny pogrzeb 
+... Elżbiety Ligęzianki, Kraków 1593, wyd. K. 
+Młynarz [zob. ZbylAkteon]. 
+ZbylWieś 
+A. Zbylitowski, Wieśniak, wyd. T. Wierzbow- 
+ski, Warszawa 1893. 
+ZbylŻyw 
+A. Zbylitowski, Żywot szlachcica we wsi, Kra- 
+ków 1597. 
+ZbylPRozm 
+P. Zbylitowski, Rozmowa ślachcica polskiego 
+z cudzoziemcem, Kraków 1600. 
+ZebrzydOdpow A. Zebrzydowski, Krótka odpowiedź, Kraków 
+1556. 
+ŹródłaEkMalb 
+Źródła do dziejów Ekonomii Malborskiej, t. I, 
+wyd. W. Hejnosz, Toruń 1959; t. II, wyd. W. 
+Hejnosz i J. Gronowski, Toruń 1960. 
+ŻywAlEust 
+Żywot błogosławenego Aleksego spowednika. 
+Drugi żywot Eustachiusza męczennika, [tłum. 
+przypisywane J. Sandeckiemu-Maleckiemu i 
+Janowi z Koszyczek], Kraków 1529. 
+ŻywAmand 
+Żywot ojca Amandusa, wyd. ks. J. Polkowski, 
+[w:] „Sprawozdania Komisji Językowej Aka- 
+demii Umiejętności”, t. III, 1884. 
+ŻywEufr 
+Żywot ś. Eufraksji, zabytek języka polskiego z 
+roku 1524, wyd. A. A. Kryński, „Prace Filolo- 
+giczne” III, 1891. 

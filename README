@@ -1,4 +1,4 @@
-Skrypt tworzy plik z hasłami do programu SP(http://github.com/globtroter/SP) dla słownika Lindego(http://poliqarp.wbl.klf.uw.edu.pl/slownik-lindego/).
+Skrypt tworzy plik ze skrótami i objaśnieniami do programu SP(http://github.com/globtroter/SP) dla słownika Lindego(http://poliqarp.wbl.klf.uw.edu.pl/slownik-lindego/).
 
 Skrypt konwertuje pliki djvu do xml'a. Następnie przegląda pliki xml i na podstawie swoich danych tworzy plik wynikowy. Dane którymi kieruje się skrypt można zmienić. Dane te są przechowywane na zmiennej @data.(w późniejszej wersji będą pobierane z pliku YML)
 
@@ -8,8 +8,14 @@ Aby urchomić skrypt:
 3. W paczce znajduje się skrypt slownik.rb oraz pliki ze spisem haseł dla Słownika Lindego (http://poliqarp.wbl.klf.uw.edu.pl/slownik-lindego/) wraz z wygenerowanym plikiem z hasłami (output.txt). Plik z hasłami pasuje do programu SP (http://github.com/globtroter/SP)
 4. z konsoli: ruby slownik.rb *.djvu w celu utworzenia pliku output.txt. Dodatkowo program zostawia przekonwertowane pliki djvu w formacie xml.
 
+W repozytorium znajduje się uaktualniony program SP. Jest on oszczędniejszy od oryginału jeśli chodzi o wykorzystywaną pamięc. Aby skorzystać z uaktualninego programu należy:
+1. wygenerować za pomocą programu djvused plik xml np "djvused -e 'output-all' ../slownik/test-indirect.djvu > nowy_plik.xml"
+2. uruchomić program SP z nowym parametrem -xml sciezka_do_pliku_xml np "java -jar SP.jar -s ../skroty.txt -d ../slownik/test-indirect.djvu -xml nowy_plik.xml"
+ 
+
 Do uruchomienia skryptu potrzebne są:
 - ruby 1.8.7
 - rubygems
 - libxml-ruby
 - djvutoxml
+- djvused
